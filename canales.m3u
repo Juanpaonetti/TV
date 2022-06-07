@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno"4",canal 4
+
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 tvg-chno"5",canal 4
+
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+#EXTINF:-1 tvg-chno"10",canal 10
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1040000=10007.m3u8
+
+#EXTINF:-1 tvg-chno"11",canal 10
+
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_3000000=10010.m3u8
+
+#EXTINF:-1 tvg-chno"12",canal 12
+
+https://trc-events.taboola.com/chatango-chatango1/log/3/perf?lti=deflated
