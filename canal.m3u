@@ -23,8 +23,11 @@ https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-mp4a
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay" ,vtv1
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD-avc1_3000000=10004.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay" ,vtv
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD-mp4a_144800_spa=20000.m3u8
+https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 ,galaxia
+#EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay" ,vtv
+https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD-avc1_3000000=10004.m3u8
+
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-mp4a_144800_spa=20000-begin=2345773530421444-dur=40100000-seq=58644339.ts
 #EXTINF:-1 , accion
 https://siloh-latam-aka.plutotv.net/457_98_ad/creative/62729360fc244f392919b8a3_ad/720p/20220504_145320/hls/hls_2400-00000.ts
