@@ -8,7 +8,7 @@ https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 43
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-mp4a_144800_spa=20001-begin=2345766973195556-dur=39893333-seq=58644175.ts
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" ,canal 10
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_2100000=10009.m3u8
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_3000000=10010.m3u8
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 11
