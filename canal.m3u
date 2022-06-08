@@ -15,7 +15,7 @@ https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-mp4a
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
+#EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 9
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_3000000=10010.m3u8
 
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 11
@@ -35,6 +35,9 @@ https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3
 
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay" ,vtv
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 ,galaxia
+http://node-16.zeno.fm/c0t488aq3f8uv?zs=pveNX1h6QUe8JxREDqRLTg&rj-tok=AAABgUV9ozMAr6mhflO7Uwkgbg&rj-ttl=5
 
 #EXTINF:-1 , accion
 https://siloh-latam-aka.plutotv.net/457_98_ad/creative/62729360fc244f392919b8a3_ad/720p/20220504_145320/hls/hls_2400-00000.ts
