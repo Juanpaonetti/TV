@@ -1,55 +1,27 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 40
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_3000000=10004.m3u8
-
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 41
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_3000000=10004.m3u8
-
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 42
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 43
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-mp4a_144800_spa=20001-begin=2345766973195556-dur=39893333-seq=58644175.ts
-
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
-
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 9
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_3000000=10010.m3u8
-
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 11
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_3000000=10010.m3u8
-
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
-
-
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD-avc1_3000000=10004.m3u8
-
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
-
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD-avc1_3000000=10004.m3u8
-
 #EXTINF:-1 ,galaxia
 http://node-16.zeno.fm/c0t488aq3f8uv?zs=pveNX1h6QUe8JxREDqRLTg&rj-tok=AAABgUV9ozMAr6mhflO7Uwkgbg&rj-ttl=5
-
-#EXTINF:-1 , accion
-https://siloh-latam-aka.plutotv.net/457_98_ad/creative/62729360fc244f392919b8a3_ad/720p/20220504_145320/hls/hls_2400-00000.ts
-
-#EXTINF:-1 , accion
-https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/5e6ff3684698db001ab3dddb_Double_the/720p/20200316_144512/hls/1793337-2376293/hls_2400-00029.ts
-
-#EXTINF:-1 , accion
-https://siloh-latam-aka.plutotv.net/b451ae_CDC/clip/5dfd2e7cbe7e53bc0c65d51d_El_rescate/720p/20191223_082027/hls/4032237-4553295/hls_2400-00087.ts
-
-#EXTINF:-1 ,accion tnt
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvsEt_JRZW_ICWI_NPkLWsRhTUkCgl6uhwL4mnyS4p5iEq-EV4YQ0bmSa5SmGogXd0QndZEqYAGq-DmHtFUZdyGW-2gbd8SZarOEDlrC-CEub9u7aX8sTkZ3H7Y0qscQ_7D_HeEMTfElZU8lb2-aiKwZQf8lFhCMwgZvAW7c_VoiCHMfo2kDqrQd5JznmxUzSHmWJs52a0kiHyXJowTQQOhVeTnLok075io4r8NOijIit77c4PgF4LAkImWNb01CjAZsoWmYv8ZxclEnsVrqKKpOrU7Lkkp0L-zhvWpyvgu_FZ7Xpe-duEzAmxliOktEfT6f1oHIUbDxcpW9ma_JFHZ4FSuJdls3BxUA7XaoGnuIBq0qSTeZJR_uPUnyBfg_m--0cBiYKSLhPO0FS6qkglSmHjsqV_VnespnNWjIoGy6ET38RgZ5bflC27cSoYpSoO-202WRj_djJvItyoumGIclAQ5hyQclGSmlFVSmJ67NGO_eYicberBOHm0aCznLvM8HY5xTswGB2d3nkBVUcNrE4NXh0VkTXfM8xJVJFrc71kvWSRPLXMCPW05YNDLrhpDplOpBpdtHfO1xaRHmJ9Fvez6Xk9yjyAk-_ZrNXARrsZF8N_ByRa7WhKFWRnsIewMX55A04Ssay8e1tSMarZb7mW91-vWYLE5jhGQ5boVb7VWFAeNXwwrVsoB0d6-oAIekOY16XkHTTpH4ziCnUkiVW9pomNJEFGffsOlpIfvehDts-7iWadGuG0JjDffXe-QPMjvPHaz5_lctK-bGNN0o3yXSR12jaR4gAk3wGebnmV76CppIvN7VB_DaqxWe98dHWFyn8LPHxE1WiFkaDKXyu8CO9TPKKAaeiSABKglldS13ZXN0LTIw9AM.m3u8
-#EXTINF:-1 ,caroon netword
-https://video-edge-65ecaa.sao01.abs.hls.ttvnw.net/v1/segment/Cp8FV87w9RDE7jKEojiL0hrHmWmT5lH1OXs0IT903KylqZbI2uq7nNv4DFMqSwURvDrkee8oKpmIkxdndBTbH1HZ9zCVhfZn46r63_MkKPlU-w0TnErUkn7pANYrkp3J48x0d4N88rg8knA8dDVEYHDZc3cfWzA-ZdzhqdNUmn7R_8He6e7KGcZe99gnyUsPNblatyhd8V0NZ7rnzma8sSvJGLAnKfC3Dha8H80SDX2D_8LcMvfMMYJ_Md6v8gRNFwiQzw_7P48yery908k5MzgBfXq-L6wvawtRfjG3TOLDrvM_JYRLYzhcivPyGinW8fAsm2Px5BhmcEzWLFk3PzJU6fsnkQHmMeH-nQWgie2btLNfuKdMcp9ovmTV1_xDrz9wSaWSGLNBbcu9YAkHDFOc73dHZboDjg8qRW6LLGrC83jcHPCiSRgKNsp6kVdl_4tZgTv9G85qu03GjtobRPcKndzmrdSyLANPjcdsYRwxFRcvYTgfmLuTlqJmMH0yWafadil2d0A7EyoUmpOFRSCSx5_kjgseZVW_9vFd_9-b9Wfodax2vseQD0beHWrOdRfeFHNOi1ufXzgjhN-xmjGR14YpIHaFAeX9TzSTpA5zD_NilE7zlLDt3cYE2VQtqwWL3Bjqb_ipOdqNQaC4GvcSACjuMhba1dfhq1EdSrcty00r-Z3B8d44dd0lCe-XvjVh38Y3Ave2tvFDcOA0W0Nnt-imFGU6IR1AhWukVgzTqDlH1uXeLjY9-qw4id_smcihWPXIr9c4ghEu4wbI5Fpfov_olBdVwo1cijdHC7GRe9xe50HmhHY7vlKlw_-49Bhxs4PLrY1LSs-tgIL7q-n2UZpmK3xLqFmT4xPBf87f44bjH0rRhvmJ9z-qMu_x8pUaDJoHCtJwDBGzV5FfbSABKglldS13ZXN0LTIw9AM.ts
 
