@@ -13,13 +13,13 @@ https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 #EXTINF:-1 group-title-"radio",galaxia
 http://node-16.zeno.fm/c0t488aq3f8uv?zs=pveNX1h6QUe8JxREDqRLTg&rj-tok=AAABgUV9ozMAr6mhflO7Uwkgbg&rj-ttl=5
-#EXTINF:-1 tvg-logo"https://cdn.mitvstatic.com/channels/ar_fox-action_m.png"accion" , start accion
+#EXTINF:-1 tvg-logo"https://cdn.mitvstatic.com/channels/ar_fox-action_m.png"accion"  group-title-"accion" , start accion
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title-"accion",tnt
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title-"accion" ,tnt
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/479/372/png-transparent-fox-action-movies-fox-movies-fox-international-channels-television-channel-film-others-miscellaneous-television-text.png"group-title-"accion", Fox acion
 https://edge1-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-logo"https://www.montecable.com/img/senales/112-extremenew.png" , hbo extreme
+#EXTINF:-1 tvg-logo"https://www.montecable.com/img/senales/112-extremenew.png"  group-title-"accion" , hbo extreme
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/800px-HBO_Plus_2000.svg.png" group-title-"accion", hbo plus
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/800px-HBO_Plus_2000.svg.png" group-title-"accion" , hbo plus
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
