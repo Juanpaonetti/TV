@@ -15,13 +15,63 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 http://node-16.zeno.fm/c0t488aq3f8uv?zs=pveNX1h6QUe8JxREDqRLTg&rj-tok=AAABgUV9ozMAr6mhflO7Uwkgbg&rj-ttl=5
 #EXTINF:-1 tvg-logo"https://cdn.mitvstatic.com/channels/ar_fox-action_m.png"accion" group-title-"accion", start accion
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title-"accion" ,tnt
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/tnt.png" group-title-"accion" ,tnt
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/479/372/png-transparent-fox-action-movies-fox-movies-fox-international-channels-television-channel-film-others-miscellaneous-television-text.png"group-title-"accion", Fox acion
 https://edge1-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo"https://www.montecable.com/img/senales/112-extremenew.png" group-title-"accion", hbo extreme
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/800px-HBO_Plus_2000.svg.png" group-title-"accion" , hbo plus
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-logo"" group-title-"accion" , space
+#EXTINF:-1 tvg-logo"https://www.sintelevisionhd.com/img/space.png" group-title-"accion" , space
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvYEQGJL-zhKSXIZWn3pr6DQ-rmINR0N9bLVikilsZCI0YvTGYcXkD8FT5I6TRhR-z2gLan3hbfcUa9BDaKwqJIsPBnlf-6hcaEHY7NmVZKCWfERJ6Ldhbs_K1exl1a0i-aAD6JOfebG5mtdobWtPJsC4OVadPFz_2z6u1565t5UF7DaCXbfySaitnB7krRWOPbQLo26miJG5mDYTLmRz2MQlNHxYgdRC4uux1xWjKubw3ntPiHjneCbWzLdCtXhIaU-7uoexZkQOKFETyapj4dnEj19N6lbTZzhfSTOjCMg2S0z1pl6OtnzdYzWN8bSClclrOVgtoeWB6vaISdTsR3GwKt3wj6ICqtCBGHninPYzRzv2PtRdvQvYATiUnHBDBZoeGewE78kKEWtnDUkwVWEiiNQzr7tvg966EhwreDVMCBKTD33fh3QvdDAyuiguSbqnhGM7ELAtcq0U8nzkVn9UkRc-0kJg3jJ5es_nMQn8tPoFM5EGdowSC52JA4W9bKTIZnTtR7xW9QAuN_NozEZKxB1d4sNll9Px4U2ufeEYNdEb5ujGbBr0XtmMrU_ZNE_l_n2-wtFGcdgcMjrBNG96YNPYi3Q_cJ4jJD0VkDW_GaJAgRsIMNXuXAS0nQahVEUypVjT6U1IZhmH6tJ1ePRapKX43Lo0pe72os-8X1wH11Zm48as83fm7wOlqRWQrCK4ycJmnQLtip5Q6BFD8sO1Pl398WpnEtRC6cL4SepDd9rfjCS19zzEox2nRBOLQjuVuc0Eft6OMHeYwbummiwN6jvU9SyNNBpBj0el5AAPltrIHhYZoWPgX34RsxTHIsTbyBWUcRgGgwyNqHDNF8wg55oiBYgASoJZXUtd2VzdC0yMPUD.m3u8
+#EXTINF:-1 tvg-logo"https://www.sintelevisionhd.com/img/id.png" group-title-"Discovery" , Investigation Discovery en vivo
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CogF8Zdv2b1VS75c--JfAaMb_W2yg0UjHHNf-x2aq8Oh0l3u7p6ScBdj0Ik-_2ICJ4cyKoYcOOGln2zeeIfhBBWUcgCVuH9XxUhHg5UPGeDWg2RuzqqMNmgQrE5NX6kCghP5lRpzpxAjS68EmGzj_AU--xHmoM2p8iFoCAFgxIqGjbNoCGDgrrPIk4ZJJ3ulbHeQk6KF5O3eW-Q46uicrVrMjKmg5by_Q2cDZ_pDLV9s244crMoCi3J9BoaPvcp68DImTZ_FW43FC1cW6FkE0H5wXq9MNeO_7-VihwcNrAk7uY5jULrnjBYfOFL3YXAcmEOkDxl_1OIt7T-vcYTYRGJpJUHbvCzMNacW34XpG35x8yppIcQ1QNzJd2ngEYsyUx0XLoZINwynm3Q1zPiTscpoV78DcUZqrcojN_qFyantSO0JPMCLhTzJGvF20M8FV5TEfAHrWaaO2-gounUemOFmMAjB4stURk9p-jjDBWJyeQ2aylSAFGTHhx1xKCEUulsMI2vgiMHppii_2Im73Nxt0FzXXOKFjJVbDSvGVERZN8JfqlNIKgoEpq520dcri4wfh8UOZijokU9cDfvAU528AhlS5rUL7sEFjaJO17Kk5pAYwjJE6Sy6XYheSQvmNNedTU1YqBbcYE4DQHua4gyQip9CZh49-IzLpFGQnT0JUZ6QmHd5RzS55-3UeBFrWNoCowyuyDuN9f2J9qPjFuRTdYywDgVOGjUbuYe1zyOXisN-5eDtgRkNmA-rL5U5s3VzXzgM8VFPWBE24hymxB8_3ygQL3ibFkqqEcVPLLJd2eiyzfLaxQwcV_rt_m9YhY7dExu8YRycpHXeJhyqtc82MBHcZ9ErJMJMGgzrEiV8Qo6D3CmFn0YgASoJZXUtd2VzdC0yMPUD.m3u8
+#EXTINF:-1 tvg-logo"https://www.sintelevisionhd.com/img/discovery.png" group-title-"Discovery" , Discovery Channel 
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CooFv25g6ph8D98-t-4HFlGEA5usrwIfRneaohlhZ3b1fEJUfngCtneJFOKkfOcuPJMpKxVfW55PEDpta0OBQqeH1LR0efl8tXXlWSvj1zON1yIbN04jKZNhFE6gFslikI75_jUaIEj3D-K9vn0-JDCSvUZ8lK5t9ltx6GvOQooKadG6ZRieB7fO-0H4Re7K9v2_mfTtPRfOi7yqteyF0davtzrbUEt869TLRTGJqzNedBIIcCQlP0i8VC2nWq3pS4vsUgcuWqqvPDdxhDrWhzJsmgY7H1oaarD26rdM1mz1khXE_vleaprOJ6v3OEnytqTuoeLh9pnSK1sot4CVKtgyCgnkvI2kWd5TFR8maXXZ2fFQ5DCQ4hblyja8EIJKWBOOi0X3FQpaykJ0fJMYG3SrlbFJhM-iMDy07JTOb0K7_l4QCqxaq8p2BiJysoDLFweYidWDLHWG835jUtcEYHgGpfB9ZxPomgcohSQfz5Jx-gQPX26hzKLFrypOj-90xZ1YnLjN9HttayNOfYiSYZme5GQUXoTwxnhi46UUTWqby_8TQMmBqgKP0ub7xHRMaCDelnjSnDPvfSzJFQNZH8MRAMfKXuQjlubDZohtSq0BltwGOVeu0tilVvTA3F_0yExJYbSn2MnnQw8AMLTy3z4IG9ixN5zPFJc0uruhcxJDQDV4Wv77jwZp5o3dFUNbMpOvUWHBPqV4OR8kWgQD8cRy-0KykXltsCsWdV_AGg-gN3BPRE7XNfZL1DK_DYWqxGI42LiAlAbjbbPMa0gC0cD6v2pjqJgOrFWm6o_DZk0BExwGUUiXEyZjnjxIwcA6Urfm1dtPkXL4HLhy7uWOUmp4mZFmybm7wYbWv2UaDPTErSaZjIV7EEGYRyABKglldS13ZXN0LTIw9QM.m3u
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/studiouniversal.png" group-title-"accion" , Studio Universal
+https://edge1-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/star-channel.png" group-title-"tv" , Star Channel
+https://edge1-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/hbo.png" group-title-"accion" ,HBO latino
+https://edge1-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/hbo2.png" group-title-"accion" ,HBO 2
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/cinemax.png" group-title-"accion" ,Cinemax
+https://edge1-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/cinecanal.png" group-title-"accion" ,Cinecanal
+https://edge1-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/tntseries.png" group-title-"accion" ,TNT Series
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/axnlatino.png" group-title-"accion" ,AXN 
+https://edge1-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1 tvg-logo"#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/axnlatino.png" group-title-"accion" ,AXN" group-title-"accion" ,AMC
+https://edge1-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/tcm.png" group-title-"accion" ,TCM
+https://edge1-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/syfy.png" group-title-"accion" ,Syfy
+https://edge1-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/fx.png" group-title-"accion" ,FX
+https://edge1-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/universalchannel.png" group-title-"accion" ,Universal TV
+https://edge1-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/warner.png" group-title-"accion" ,Warner Channel
+https://edge1-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/sonyy.png" group-title-"accion" ,Sony Channel
+https://edge1-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/cartoonnetwork.png" group-title-"infantil" ,Cartoon Network
+https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/disneychannel.png" group-title-"infantil" ,Disney Channel
+https://edge1-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/nick.png" group-title-"infantil" ,Nick
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u
+EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/animalplanet.png" group-title-"acc" ,Animal Planet
+
+https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/animalplanet.png" group-title-"animales" ,Animal Planet
+#EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/nationalgeographiclatino.png" group-title-"animales" ,National Geographic
+https://edge1-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1 tvg-logo"https://ww3.cuevana.pro/resize/200/storage/25993/dZnQKMggt5KZxjw0txLwJfRFcmoYzCGRomVUy0Dz.jpg" group-title-"pelicula" ,Película Memory 
+https://delivery292.akamai-cdn-content.com/hls2/01/05075/m9mmu84wjf1e_,l,n,.urlset/master.m3u8?t=Bpg1HK6T5k-BQW7pHEWmApr6i1wnYke_4XDKBC107AI&s=1654809303&e=21600&f=25386911&srv=yieyyjydqtlbrtgdetma&client=4.104.55.23
+#EXTINF:-1 tvg-logo"" group-title-"" ,
