@@ -7,10 +7,7 @@ https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-avc1_530000=10008.m3u8
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv plus
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv
