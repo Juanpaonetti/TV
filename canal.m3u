@@ -78,7 +78,7 @@ https://edge2-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CokFy4AF3gomwcN5cPx5kzKTjrGFJiZV5dn_ZGRsSZKCklIa7nR2Bp3MUssCPxsHgAkRs_69nNzq3qCIfCxMFxjhaqBSmvxcxApD4P2XNdyNe01n03878dldHt2aNOq6ZVDAA6rRCf0WL_7_5QYGdzsePaeDW25gEEgyJGuKzc1dyBUyQl-hDaRNGkH7RYVPSr4saIh5xsGd9E8L0jQClsDYFrXeIK9QSedCqBC86a0QxHNaAswSCbYE5aYrMUg2h0Gcv0F-6M9Tp2WQ6zeX5gmd59viN_sOPkDjXOwXvR-N7LaN7KOI6wx9325myOyTQB1G7mlNihFpvdUk-9OY6cDnJB5yJD_rqUBfAdrq-iBXGxNPcGQHwv5Rw-ltwPoA3IrZ4h_PM4ecbxd-YBqpAkcc0blmP6MsCedK_wF1SyQfULdgZDUltAqIA5nIIvW-Nr5tXKBu7Rr06-M5KsT8iiOIy76pkWbKOnTyPPnWOu9RB62nGrFu4RdrY2sJVz0e-UJIU-e99u10TwM2XNpnWaYECZGAAZE2RSCEA4ejqsj0CDFA3PMSwjO5xM6SOMTa2GwQP9ezsCV55Vn6Ni5VA62HsPk1D8DU1OOtPlQokgZnTgvr5VI1QdQ8ILxScV4GCNo3ZRwLt-jiA5CIuPFrsaB2VbMIhcnT4hqMgMcHp8ED4S5jBtppDfr6wDyge9-DlbyxRRBnquP7Aew2OeW_4ICnp7lMJ4i37QESWeldkVi-vS7avg4gCVhcXekUG_O9UiOTP25CCBpMdg8GApBVrhfpHqG7Ob5UKkUwc2SVQbF_BFy8-KlHQ9XOOPTXH1kJdsixa7lvHs35jhd9tNbQTvCVLCBNJ3mMwnEtqhoMRTg14y6PGU9rd6-lIAEqCXVzLWVhc3QtMjCDBA.m3u8
 #EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/Futurama.png" group-title-"dibujos viejos",futurama
 https://usher.ttvnw.net/api/channel/hls/futurama_mania08.m3u8?allow_source=true&fast_bread=true&p=3426050&play_session_id=758fc50e22423ec1303765ff3740e32d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=e417437f6215791a9cbaa476c3749b31f7db5356&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22futurama_mania08%22%2C%22channel_id%22%3A784271458%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f3e88f2c2aeb0459%22%2C%22expires%22%3A1656180392%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.54.17.109%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
-#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/yga60xwbi3_min.jpg" group-title-"estrenos",
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/yga60xwbi3_min.jpg" group-title-"estrenos", Doctor Strange en el multiverso de la locura
 https://celia.evosrv.com/EvoStreams/LaUTOqfPvfjGwuFCpHyz.mp4.mp4?md5=eI1WoC13ym-Z7jiJWDM0aw&expires=1656195151
 #EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/mxct3u9ovg_min.jpg" group-title-"estrenos", Jurassic World 3: Dominio
 https://s-delivery29.mxdcontent.net/v/dde5e15c8b0d61541c5eaf262eeadf48.mp4?s=pJsDl-QX17SAiKwxnuxvjg&e=1656205117&_t=1656189704
@@ -89,4 +89,30 @@ https://s-delivery41.mxdcontent.net/v/1f80af43f70b9cb2e5f218db83b04ae6.mp4?s=r4M
 
 #EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/kypd7s15v3_min.jpg" group-title-"estrenos", Dog: Un viaje salvaje
 https://s-delivery34.mxdcontent.net/v/7ea9d07dc321e2aff71b2c39c0046d34.mp4?s=H6cF_n8JgwvdI8wYL4veJA&e=1656206992&_t=1656186336
-#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/mxct3u9ovg_min.jpg" group-title-"estrenos", Jurassic World 3: Domi
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/7y7aci4nvd_min.jpg" group-title-"estrenos", Ambulancia
+https://s-delivery31.mxdcontent.net/v/d8ac58537cfe1696f43e8a8b34b9b2c1.mp4?s=hNjlwLu6GNab0KJtU2xDyA&e=1656207296&_t=1656190549
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/7g2hq0sz66_min.jpg" group-title-"estrenos", El Peso del Talento
+https://s-delivery40.mxdcontent.net/v/b92c67e3fc2fdd007588a1e0c8cdc03f.mp4?s=7AqNq5sOpvsfnQwHtZgKuw&e=1656207436&_t=1656194064
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/ekx6p4j183_min.jpg" group-title-"pelicula", Morbius
+https://s-delivery28.mxdcontent.net/v/266b35ba4863c84720d2f6e61f3a4100.mp4?s=KdNuKnYg7u2v8Vkg908Utw&e=1656207800&_t=1656193289
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/h924141657_min.jpg" group-title-"peliculas", Uncharted: Fuera del mapa
+https://s-delivery32.mxdcontent.net/v/348b9937308159735170c209cf28c44d.mp4?s=ERbtWgVb9EVTD8Oqeg84xw&e=1656207986&_t=1656193914
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/38k0y61bli_min.jpg" group-title-"pelicula", Moonfall
+https://s-delivery34.mxdcontent.net/v/585744ee09853fbd7ec84b9dd5dd35b9.mp4?s=9yhfTDd6Ny0VreiHLOZveA&e=1656208170&_t=1656189551
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/4z06t2l21n_min.jpg" group-title-"pelicula", The King's Man 3: El Origen
+https://s-delivery27.mxdcontent.net/v/96cd5c4467203685e25283aafbe243b5.mp4?s=8iS7cuaCe9jJTz6lmRxisw&e=1656208362&_t=1656190387
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/jqcah6i76m_min.jpg" group-title-"pelicula", Matrix Resurrecciones
+https://s-delivery28.mxdcontent.net/v/f96809be25158dbd7e3538dedac3c5d3.mp4?s=EANGrrPyzUSxWTPpc2bshg&e=1656208455&_t=1656193634
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/mxct3u9ovg_min.jpg" group-title-"pelicula", Resident Evil: Bienvenidos a Raccoon City
+https://s-delivery43.mxdcontent.net/v/21de079922ef5bf36cfc0797a3935c8d.mp4?s=IQd9gjPpxtX5CJmEtjl3sw&e=1656208648&_t=1656188412
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/0r3fmu43l7_min.jpg" group-title-"pelicula", Rompiendo las reglas: Rebelión
+https://a-delivery40.mxdcontent.net/v/2d2c8669d4f83f0a42ee8a48df2d09e9.mp4?s=14Dgv4stCQlxkHlcygqnIw&e=1656208753&_t=1656191909
+#EXTINF:-1 tvg-logo"https://r.pictux.net/img/movies/i5k66j0qe9_min.jpg" group-title-"pelicula", Apex
+https://s-delivery40.mxdcontent.net/v/7b71381abd17f332295cbd08fbb3d292.mp4?s=YZJWV0rpZ4JoOpMYjbwOPA&e=1656208931&_t=1656196786
+#EXTINF:-1 tvg-logo"" group-title-"pelicula", 
+
+#EXTINF:-1 tvg-logo"" group-title-"pelicula", 
+#EXTINF:-1 tvg-logo"" group-title-"pelicula", 
+#EXTINF:-1 tvg-logo"" group-title-"pelicula", 
+#EXTINF:-1 tvg-logo"" group-title-"pelicula", 
+
