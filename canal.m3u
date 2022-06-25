@@ -2,16 +2,15 @@
 
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-#EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-#EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_2100000=10003.m3u8
-#EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-mp4a_144800_spa=20001.m3u8
+
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-avc1_530000=10008.m3u8
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv plus
 https://edge1-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png" group-title-"uruguay",vtv
@@ -72,7 +71,6 @@ https://edge1-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChan
 #EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/nick.png" group-title-"infantil",Nick
 https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u
 EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/animalplanet.png" group-title-"acc",Animal Planet
-
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/animalplanet.png" group-title-"animales",Animal Planet
 #EXTINF:-1 tvg-logo"https://telefullenvivo.com/logos/nationalgeographiclatino.png" group-title-"animales",National Geographic
@@ -80,6 +78,6 @@ https://edge1-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title-"musica",htv
 https://edge2-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title-"dibujos viejos",Los Simpson
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CokFy4AF3gomwcN5cPx5kzKTjrGFJiZV5dn_ZGRsSZKCklIa7nR2Bp3MUssCPxsHgAkRs_69nNzq3qCIfCxMFxjhaqBSmvxcxApD4P2XNdyNe01n03878dldHt2aNOq6ZVDAA6rRCf0WL_7_5QYGdzsePaeDW25gEEgyJGuKzc1dyBUyQl-hDaRNGkH7RYVPSr4saIh5xsGd9E8L0jQClsDYFrXeIK9QSedCqBC86a0QxHNaAswSCbYE5aYrMUg2h0Gcv0F-6M9Tp2WQ6zeX5gmd59viN_sOPkDjXOwXvR-N7LaN7KOI6wx9325myOyTQB1G7mlNihFpvdUk-9OY6cDnJB5yJD_rqUBfAdrq-iBXGxNPcGQHwv5Rw-ltwPoA3IrZ4h_PM4ecbxd-YBqpAkcc0blmP6MsCedK_wF1SyQfULdgZDUltAqIA5nIIvW-Nr5tXKBu7Rr06-M5KsT8iiOIy76pkWbKOnTyPPnWOu9RB62nGrFu4RdrY2sJVz0e-UJIU-e99u10TwM2XNpnWaYECZGAAZE2RSCEA4ejqsj0CDFA3PMSwjO5xM6SOMTa2GwQP9ezsCV55Vn6Ni5VA62HsPk1D8DU1OOtPlQokgZnTgvr5VI1QdQ8ILxScV4GCNo3ZRwLt-jiA5CIuPFrsaB2VbMIhcnT4hqMgMcHp8ED4S5jBtppDfr6wDyge9-DlbyxRRBnquP7Aew2OeW_4ICnp7lMJ4i37QESWeldkVi-vS7avg4gCVhcXekUG_O9UiOTP25CCBpMdg8GApBVrhfpHqG7Ob5UKkUwc2SVQbF_BFy8-KlHQ9XOOPTXH1kJdsixa7lvHs35jhd9tNbQTvCVLCBNJ3mMwnEtqhoMRTg14y6PGU9rd6-lIAEqCXVzLWVhc3QtMjCDBA.m3u8
 #EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/Futurama.png" group-title-"dibujos viejos",futurama
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqMFEbpauYzItk9fjZ7c3FhljEjp76AqNTL1bGlW-CQRY36AdAwuvjHJl0hedbc9IKEUGGdUG8gaL3l878mXeIXPrUontpqsuMJDGYrlcMS0t5fT2SFXWqlBW4_9x8P0GiYqK5lxwluNp_JR7i18CRW-9zoDUgpjPbgxHcpSDVNOmgBB4YieDVKzJ2jqQsD5glx7edTL0kiax-QhE-KbFqAM8D60pRPmUdiunI6Q98Nl1cyY9tFpm_DC-OW8WRMsxigklvTL_JdKKbNRfPPq5AmLeKBFomXETodck7FVCpXPfZJIm5yvqfIHi0eidaUaLkj2ujvk13AfncazrIE98gkLSuWhlFKl4AnZs7nTHeEQDxhxhJxb0SHAtyqtm5MGjt_xn-fLSn6XRIX7DL21mKSO_jiz0onjwVa20L7tGSPbXiiH1sUnAq3WB4ApcaR6dSYUUowORrTJ3mKoXil0aNSnM-3gmhwA3oK4HG2PwrRqYBox2OvIJVA0SB5bzYvXTMtIQ8AVQw1wTYFkj35CszHfXhMp1eDsyn-oMMiVFmTM2y-VZm9iJ1coRekYB1_K1m_XEahfnHa2z3K1e338VO9pffXDDfHm88zrPZIETlV6KVtgjPkoK8tsEw2iMDx8Ld6y7r8U19_KcSQhYb_dEeZhW44jr4Jsw_C7JdL0WzCYBfv-O4HfjO-L3by67vY--36enIjwrt3zEiGZMJl_JZ0mBMciLqxszTR4e3VvmFA9m1xBi0qAtQAsnQhBWFKRyONRjy6HrxQ06ZwR937TBFmADh5YaAgLMWKHzjVR0hzdnH13h9m3zhF42-3JGv9JOVPfqw6cgPlPrB1OXouUa0kycKFYd-b_RyKemBdj8N0AQoscHuF89SaB6j-6FLgNCesFZzNQGgwk2ZcaLHU30pNbQnkgASoJZXUtd2VzdC0yMPYD.m3u8
+https://usher.ttvnw.net/api/channel/hls/futurama_mania08.m3u8?allow_source=true&fast_bread=true&p=3426050&play_session_id=758fc50e22423ec1303765ff3740e32d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=e417437f6215791a9cbaa476c3749b31f7db5356&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22futurama_mania08%22%2C%22channel_id%22%3A784271458%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f3e88f2c2aeb0459%22%2C%22expires%22%3A1656180392%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.54.17.109%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
