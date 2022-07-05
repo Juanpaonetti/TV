@@ -6,7 +6,12 @@ https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:9/chunklist_w1943803157_b1800000.m3u8?token=ed16f818-382d-42a7-bfdd-6515590ef918
+
+#EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 11
+http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:9/playlist.m3u8?token=ed16f818-382d-42a7-bfdd-6515590ef918
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 13
+http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:9/chunklist_w1943803157_b600000.m3u8?token=ed16f818-382d-42a7-bfdd-6515590ef918
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 12
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 
