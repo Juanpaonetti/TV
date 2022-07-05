@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/UNk2yx" group-title="PREMIUM IPTV61" ,Canal 5 (URU)
+http://iptv61w.com:25461/live/moises123/moises123/4655.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/UNk2yx" group-title="PREMIUM IPTV61" ,Canal 10 (URU)
+http://iptv61w.com:25461/live/moises123/moises123/4653.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/UNk2yx" group-title="PREMIUM IPTV61" ,Canal 12 (URU)
+http://iptv61w.com:25461/live/moises123/moises123/4654.ts
 
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
