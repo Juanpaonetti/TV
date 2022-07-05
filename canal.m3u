@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU-mp4a_144800_spa=20000-init.m3u
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU-avc1_3000000=10004-2369759132000000.mp4
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
 https://edge-vod02-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
