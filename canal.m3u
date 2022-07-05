@@ -478,4 +478,1708 @@ https://stmv2.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
 https://stmv2.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoSUSPENSO2.jpg"group-title="xtrematv",xtrema SUSPENSO
 https://stmv2.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| ESPAÑA HD ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| ESPAÑA HD ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1700
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP PRAYER TIMES" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| POP PRAYER TIMES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/341128
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CORONA VIRUS INFO" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CORONAVIRUSLOGO.png" group-title="EU| ESPAÑA HD",|SP| CORONA VIRUS INFO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1699
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="EU| ESPAÑA HD",|SP| TVE INTERNACIONAL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1698
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LA1.png" group-title="EU| ESPAÑA HD",|SP| LA 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1697
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LA2.png" group-title="EU| ESPAÑA HD",|SP| LA 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1696
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ANTENA3.png" group-title="EU| ESPAÑA HD",|SP| ANTENA 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1695
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/E4.png" group-title="EU| ESPAÑA HD",|SP| CUATRO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1694
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TELECINCO.png" group-title="EU| ESPAÑA HD",|SP| TELECINCO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1693
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LASEXTA.png" group-title="EU| ESPAÑA HD",|SP| LA SEXTA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1692
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="|SP| CANAL SUR A." tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALSURA.png" group-title="EU| ESPAÑA HD",|SP| CANAL SUR A.
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1691
+#EXTINF:-1 tvg-id="#0.es" tvg-name="|SP| 0 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/0.png" group-title="EU| ESPAÑA HD",|SP| 0 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1683
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="|SP| FDF" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FDF.png" group-title="EU| ESPAÑA HD",|SP| FDF
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1690
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ENERGY.png" group-title="EU| ESPAÑA HD",|SP| ENERGY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1689
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DIVINITY.png" group-title="EU| ESPAÑA HD",|SP| DIVINITY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1688
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MEGA.png" group-title="EU| ESPAÑA HD",|SP| MEGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1687
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BEMAD.png" group-title="EU| ESPAÑA HD",|SP| BE MAD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1686
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NEOX.png" group-title="EU| ESPAÑA HD",|SP| NEOX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1685
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANAL24HORAS.png" group-title="EU| ESPAÑA HD",|SP| CANAL 24 HORAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1684
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ARAGON TV INT" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ARAGONTVINT.png" group-title="EU| ESPAÑA HD",|SP| ARAGON TV INT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1682
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/XTRM.png" group-title="EU| ESPAÑA HD",|SP| XTRM HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/192238
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NOVA.png" group-title="EU| ESPAÑA HD",|SP| NOVA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1681
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="|SP| CANAL ORBE21" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALORBE21.png" group-title="EU| ESPAÑA HD",|SP| CANAL ORBE21
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1680
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/24HORAS.png" group-title="EU| ESPAÑA HD",|SP| 24 HORAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1679
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TVGA.png" group-title="EU| ESPAÑA HD",|SP| TVGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1678
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/VAMOS.png" group-title="EU| ESPAÑA HD",|SP| #VAMOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1677
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP SPANISH TALENTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP SPANISH TALENTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/123977
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP LA VOZ KIDS ESPAÑA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP LA VOZ KIDS ESPAÑA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/123660
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| NINOS ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| NINOS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1676
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BABYTV.png" group-title="EU| ESPAÑA HD",|SP| BABY TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1675
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BOING.png" group-title="EU| ESPAÑA HD",|SP| BOING
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1674
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CLANTVE.png" group-title="EU| ESPAÑA HD",|SP| CLAN TVE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1673
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DISNEYCH.png" group-title="EU| ESPAÑA HD",|SP| DISNEY CH HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1672
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DISNEYJR.png" group-title="EU| ESPAÑA HD",|SP| DISNEY JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1671
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DREAMWORKS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DREAMWORKS.png" group-title="EU| ESPAÑA HD",|SP| DREAMWORKS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1670
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NICKJR.png" group-title="EU| ESPAÑA HD",|SP| NICK JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1669
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NICKELODEON.png" group-title="EU| ESPAÑA HD",|SP| NICKELODEON  HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1668
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALPANDA.png" group-title="EU| ESPAÑA HD",|SP| CANAL PANDA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1667
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS SHAUN THE SHEEP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS SHAUN THE SHEEP
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289576
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS DIANA Y ROMA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS DIANA Y ROMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/253927
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS GUMBALL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS GUMBALL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/308629
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS OGGY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS OGGY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/253925
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS ZIG AND SHARKO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS ZIG AND SHARKO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/253923
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS RABBIDS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS RABBIDS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/230875
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS LITTEL BABY BUM" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS LITTEL BABY BUM
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/198787
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS CAILLOU" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS CAILLOU
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/138347
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS BOB ESPONJA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS BOB ESPONJA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/112622
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS REINO DE BEN Y HOLLY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP KIDS REINO DE BEN Y HOLLY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/109398
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| ENTRETENIMIENTO  ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| ENTRETENIMIENTO  ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1665
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP JUST FOR LAUGHS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP JUST FOR LAUGHS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/232836
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/AMCHD.png" group-title="EU| ESPAÑA HD",|SP| AMC HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1664
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/AXN.png" group-title="EU| ESPAÑA HD",|SP| AXN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1663
+#EXTINF:-1 tvg-id="" tvg-name="|SP| AXN HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/AXN.png" group-title="EU| ESPAÑA HD",|SP| AXN HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1662
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/AXNWHITE.png" group-title="EU| ESPAÑA HD",|SP| AXN WHITE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1661
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CALLE13HD.png" group-title="EU| ESPAÑA HD",|SP| CALLE 13 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1660
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="EU| ESPAÑA HD",|SP| COMEDY CENTRAL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1659
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/COSMOHD.png" group-title="EU| ESPAÑA HD",|SP| COSMO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1658
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOXHD.png" group-title="EU| ESPAÑA HD",|SP| FOX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1657
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOX NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOXNEWS.png" group-title="EU| ESPAÑA HD",|SP| FOX NEWS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1592
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="|SP| FOX LIFE HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOXLIFE.png" group-title="EU| ESPAÑA HD",|SP| FOX LIFE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1656
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="EU| ESPAÑA HD",|SP| HOLLYWOOD HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1655
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/PARAMOUNT.png" group-title="EU| ESPAÑA HD",|SP| PARAMOUNT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1654
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/SUNDANCETV.png" group-title="EU| ESPAÑA HD",|SP| SUNDANCE TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1653
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/SYFY.png" group-title="EU| ESPAÑA HD",|SP| SYFY HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1652
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TCM.png" group-title="EU| ESPAÑA HD",|SP| TCM HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1651
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TNTHD.png" group-title="EU| ESPAÑA HD",|SP| TNT HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1650
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CLASSICA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CLASSICA.png" group-title="EU| ESPAÑA HD",|SP| CLASSICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1649
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| DEPORTES ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| DEPORTES ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1621
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="|SP| M.LALIGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA HD",|SP| M.LALIGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1644
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31268
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31270
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31272
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 4 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 4 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/318477
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 5 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 5 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/318476
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 6 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 6 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/318475
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 7 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 7 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/318474
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 8 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 8 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325815
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 9 HD |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M. LALIGA 9 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325816
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA TV BAR" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| LALIGA TV BAR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325618
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÑA HD",|SP| EUROSPORT1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1642
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÑA HD",|SP| EUROSPORT 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1641
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT2.png" group-title="EU| ESPAÑA HD",|SP| EUROSPORT 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1640
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÑA HD",|SP| M.DEPORTES HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1619
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TELEDEPORTE.png" group-title="EU| ESPAÑA HD",|SP| TELEDEPORTE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1618
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.WIMBLEDONHD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MWIMBLEDONHD.png" group-title="EU| ESPAÑA HD",|SP| M.WIMBLEDONHD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1615
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1647
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÑA HD",|SP| M.DEPORTES 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1620
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes2.png" group-title="EU| ESPAÑA HD",|SP| M.DEPORTES 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/226589
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes3.png" group-title="EU| ESPAÑA HD",|SP| M.DEPORTES 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/226590
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/GOL.png" group-title="EU| ESPAÑA HD",|SP| GOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1639
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|SP| BAR TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BARTV.png" group-title="EU| ESPAÑA HD",|SP| BAR TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1638
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R. MADRID TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/RMADRIDTV.png" group-title="EU| ESPAÑA HD",|SP| R. MADRID TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1637
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TOROSHD.png" group-title="EU| ESPAÑA HD",|SP| TOROS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1636
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|SP| M.GOLF HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MGOLFHD.png" group-title="EU| ESPAÑA HD",|SP| M.GOLF HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1633
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 1 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 1 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/83381
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 2 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 2 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/83380
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 3 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 3 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/83379
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 4 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 4 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/319074
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 5 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 5 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/319073
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 6 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 6 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/319072
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 7 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 7 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/319071
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 8 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 8 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/319070
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 9 |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 9 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325614
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 10 |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 10 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325615
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 11 |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 11 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325616
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 12 |ONLY DURING LIVE MATCHES|" tvg-logo="" group-title="EU| ESPAÑA HD",|SP| M.LCAMPEONES 12 |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325617
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN1.png" group-title="EU| ESPAÑA HD",|SP| DAZN 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/41323
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN2.png" group-title="EU| ESPAÑA HD",|SP| DAZN 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/41324
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN3.png" group-title="EU| ESPAÑA HD",|SP| DAZN 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157478
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN4.png" group-title="EU| ESPAÑA HD",|SP| DAZN 4 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157477
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZNF1.png" group-title="EU| ESPAÑA HD",|SP| DAZN F1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157476
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 1" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282436
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 2" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282427
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 3" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282428
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 4" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 4
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282429
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 5" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 5
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282430
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 6" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 6
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282431
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 7" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 7
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282432
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 8" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 8
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282433
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 9" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 9
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282434
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOOTTERS 10" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOOTTERS.png" group-title="EU| ESPAÑA HD",|SP| FOOTTERS 10
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282435
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP LaLiga" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP LaLiga
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/323546
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| MOVIESTAR ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| MOVIESTAR ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1631
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MACCIONHD.png" group-title="EU| ESPAÑA HD",|SP| M.ACCION HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1630
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M.CINE ESPANOL" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MCINEESPANOL.png" group-title="EU| ESPAÑA HD",|SP| M.CINE ESPANOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1629
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M.COMEDIA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="EU| ESPAÑA HD",|SP| M.COMEDIA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1628
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDRAMAHD.png" group-title="EU| ESPAÑA HD",|SP| M.DRAMA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1627
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MESTRENOSHD.png" group-title="EU| ESPAÑA HD",|SP| M.ESTRENOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1626
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.ESTRENOS 2 HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/MESTRENOS2.png" group-title="EU| ESPAÑA HD",|SP| M.ESTRENOS 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/317739
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MSERIESHD.png" group-title="EU| ESPAÑA HD",|SP| M.SERIES HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1623
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.SERIES 2 HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/MSERIES2.png" group-title="EU| ESPAÑA HD",|SP| M.SERIES 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/317740
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="EU| ESPAÑA HD",|SP| M.SERIESMANIA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1622
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.RESISTENCIA HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/MRESISTENCIAHD.png" group-title="EU| ESPAÑA HD",|SP| M.RESISTENCIA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/317738
+#EXTINF:-1 tvg-id="" tvg-name="|SP| SOMOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/SOMOS.png" group-title="EU| ESPAÑA HD",|SP| SOMOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/300095
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289578
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289579
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289580
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 4 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289581
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 5 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 5 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289582
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 6 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 6 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289583
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 7 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 7 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289584
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 8 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 8 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289585
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 9 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 9 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289586
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 10 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 10 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289587
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 11 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 11 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289588
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 12 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ALQUILER.png" group-title="EU| ESPAÑA HD",|SP| ALQUILER 12 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289589
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CHRISTMAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MOVIES CHRISTMAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/285160
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES NETFLIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MOVIES NETFLIX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289599
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| MUSICA ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| MUSICA ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1614
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MTV.png" group-title="EU| ESPAÑA HD",|SP| MTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1612
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV ESPA¹A" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MTVESPAA.png" group-title="EU| ESPAÑA HD",|SP| MTV ESPA¹A
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1611
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MEZZO.png" group-title="EU| ESPAÑA HD",|SP| MEZZO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1617
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/Mezzolive.png" group-title="EU| ESPAÑA HD",|SP| MEZZO LIVE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1616
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VH1" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/VH1.png" group-title="EU| ESPAÑA HD",|SP| VH1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1594
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC HIT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC HIT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301313
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC RAP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC RAP
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301308
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC CHILL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC CHILL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301312
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC REMIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC REMIX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/302137
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC CLASSIC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC CLASSIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/306446
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC BEST MIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC BEST MIX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301310
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC BILLBOARD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC BILLBOARD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301309
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC DANCE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC DANCE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/301311
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC HOUSE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUSIC HOUSE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/254833
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| CULTURA ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| CULTURA ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1608
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/BLAZE.png" group-title="EU| ESPAÑA HD",|SP| BLAZE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1607
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/cocina%20HD.png" group-title="EU| ESPAÑA HD",|SP| CANAL COCINA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1606
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALDECASA.png" group-title="EU| ESPAÑA HD",|SP| CANAL DECASA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1605
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZAyPESCA HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CAZAYPESCA.png" group-title="EU| ESPAÑA HD",|SP| CAZAyPESCA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1604
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="|SP| CRIMEN+INVES" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CRIMEN%20AND%20INVES.png" group-title="EU| ESPAÑA HD",|SP| CRIMEN+INVES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1603
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/DISCOVERY.png" group-title="EU| ESPAÑA HD",|SP| DISCOVERY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1602
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/HISTORY.png" group-title="EU| ESPAÑA HD",|SP| HISTORIA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1601
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/IBERLIA%20TV.png" group-title="EU| ESPAÑA HD",|SP| IBERALIA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1600
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="|SP| DKISS" tvg-logo="http://103.161.34.240:81/logos/SPAIN/DKISS.png" group-title="EU| ESPAÑA HD",|SP| DKISS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/312694
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DMAX" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DMAX.png" group-title="EU| ESPAÑA HD",|SP| DMAX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/229598
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NATGEO.png" group-title="EU| ESPAÑA HD",|SP| NAT GEO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1599
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NATGEOWILD.png" group-title="EU| ESPAÑA HD",|SP| NAT GEO WILD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1598
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NATGEOWILD.png" group-title="EU| ESPAÑA HD",|SP| NAT GEO WILD HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1597
+#EXTINF:-1 tvg-id="canalandaluciacocina.es" tvg-name="|SP| CANAL ODISEA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/ODEISA%20HD.png" group-title="EU| ESPAÑA HD",|SP| CANAL ODISEA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1596
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP DOCU RELAXATION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP DOCU RELAXATION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/229316
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP DOCUMNTARY 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP DOCUMNTARY 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289590
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUNDO DE LA COCINA HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="EU| ESPAÑA HD",|SP| POP MUNDO DE LA COCINA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/294429
+#EXTINF:-1 tvg-id="" tvg-name="## |SP-4K| ESPAÑA 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP-4K| ESPAÑA 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1918
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| TVE INTERNACIONAL HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="EU| ESPAÑA 4K",|SP-4K| TVE INTERNACIONAL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1916
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP-4K| LA 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LA1.png" group-title="EU| ESPAÑA 4K",|SP-4K| LA 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1915
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP-4K| LA 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LA2.png" group-title="EU| ESPAÑA 4K",|SP-4K| LA 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1914
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP-4K| ANTENA 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ANTENA3.png" group-title="EU| ESPAÑA 4K",|SP-4K| ANTENA 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1913
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP-4K| CUATRO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/E4.png" group-title="EU| ESPAÑA 4K",|SP-4K| CUATRO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1912
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP-4K| TELECINCO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TELECINCO.png" group-title="EU| ESPAÑA 4K",|SP-4K| TELECINCO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1911
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP-4K| LA SEXTA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/LASEXTA.png" group-title="EU| ESPAÑA 4K",|SP-4K| LA SEXTA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1910
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="|SP-4K| CANAL SUR A." tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALSURA.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL SUR A.
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1909
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP-4K| NOVA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NOVA.png" group-title="EU| ESPAÑA 4K",|SP-4K| NOVA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1908
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CANAL 24 HORAS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANAL24HORAS.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL 24 HORAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1907
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="|SP-4K| CANAL ORBE21" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALORBE21.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL ORBE21
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1906
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP-4K| 24 HORAS" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/24HORAS.png" group-title="EU| ESPAÑA 4K",|SP-4K| 24 HORAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1905
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP-4K| TVGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TVGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| TVGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1904
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP-4K| XTRM HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/XTRM.png" group-title="EU| ESPAÑA 4K",|SP-4K| XTRM HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/192239
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="|SP-4K| FDF" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FDF.png" group-title="EU| ESPAÑA 4K",|SP-4K| FDF
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1903
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP-4K| CLAN TVE" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CLANTVE.png" group-title="EU| ESPAÑA 4K",|SP-4K| CLAN TVE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1902
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP-4K| HOLLYWOOD HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| HOLLYWOOD HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1901
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP-4K| IBERALIA TV" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/IBERLIA%20TV.png" group-title="EU| ESPAÑA 4K",|SP-4K| IBERALIA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1900
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP-4K| MEGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MEGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| MEGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1899
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP-4K| #VAMOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/VAMOS.png" group-title="EU| ESPAÑA 4K",|SP-4K| #VAMOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1898
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| NINOS 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| NINOS 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1897
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP-4K| BABY TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BABYTV.png" group-title="EU| ESPAÑA 4K",|SP-4K| BABY TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1896
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP-4K| BOING" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BOING.png" group-title="EU| ESPAÑA 4K",|SP-4K| BOING
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1895
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP-4K| CANAL PANDA" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/CANALPANDA.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL PANDA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1894
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP-4K| COMEDYCENTRAL HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| COMEDYCENTRAL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1893
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP-4K| DISNEY CH HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/DISNEYCH.png" group-title="EU| ESPAÑA 4K",|SP-4K| DISNEY CH HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1892
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP-4K| DISNEY JR" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DISNEYJR.png" group-title="EU| ESPAÑA 4K",|SP-4K| DISNEY JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1891
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="|SP-4K| DREAMWORKS" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/DREAMWORKS.png" group-title="EU| ESPAÑA 4K",|SP-4K| DREAMWORKS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1890
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP-4K| NICK JR" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NICKJR.png" group-title="EU| ESPAÑA 4K",|SP-4K| NICK JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1889
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP-4K| NICKELODEON HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NICKELODEON.png" group-title="EU| ESPAÑA 4K",|SP-4K| NICKELODEON HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1887
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| ENTRETENIMIENTO 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| ENTRETENIMIENTO 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1886
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP-4K| FOX HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/FOXHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| FOX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1885
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="|SP-4K| FOX LIFE HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/FOXLIFE.png" group-title="EU| ESPAÑA 4K",|SP-4K| FOX LIFE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1884
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| FOX NEWS" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",|SP-4K| FOX NEWS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1883
+#EXTINF:-1 tvg-id="#0.es" tvg-name="|SP-4K| 0 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/FOXNEWS.png" group-title="EU| ESPAÑA 4K",|SP-4K| 0 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1882
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP-4K| AMC HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/AMCHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| AMC HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1881
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| ARAGON TV INT" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/ARAGONTVINT.png" group-title="EU| ESPAÑA 4K",|SP-4K| ARAGON TV INT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1880
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP-4K| AXN" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/AXN.png" group-title="EU| ESPAÑA 4K",|SP-4K| AXN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1879
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| AXN HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/AXN.png" group-title="EU| ESPAÑA 4K",|SP-4K| AXN HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1878
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP-4K| AXN WHITE HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/AXNWHITE.png" group-title="EU| ESPAÑA 4K",|SP-4K| AXN WHITE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1877
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP-4K| SYFY HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/SYFY.png" group-title="EU| ESPAÑA 4K",|SP-4K| SYFY HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1876
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP-4K| TCM HD" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",|SP-4K| TCM HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1875
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP-4K| TNT HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/TNTHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| TNT HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1874
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP-4K| BE MAD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/BEMAD.png" group-title="EU| ESPAÑA 4K",|SP-4K| BE MAD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1873
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP-4K| BLAZE" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/BLAZE.png" group-title="EU| ESPAÑA 4K",|SP-4K| BLAZE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1872
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP-4K| CALLE 13 HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CALLE13HD.png" group-title="EU| ESPAÑA 4K",|SP-4K| CALLE 13 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1871
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP-4K| CANAL COCINA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/cocina%20HD.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL COCINA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1870
+#EXTINF:-1 tvg-id="" tvg-name="|SP-8K| CANAL+ COCINA" tvg-logo="" group-title="EU| ESPAÑA 4K",|SP-8K| CANAL+ COCINA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/325823
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP-4K| CANAL DECASA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CANALDECASA.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL DECASA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1869
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CANAL ODISEA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/ODEISA%20HD.png" group-title="EU| ESPAÑA 4K",|SP-4K| CANAL ODISEA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1868
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP-4K| CAZAYPESCA HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CAZAYPESCA.png" group-title="EU| ESPAÑA 4K",|SP-4K| CAZAYPESCA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1867
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CLASSICA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CLASSICA.png" group-title="EU| ESPAÑA 4K",|SP-4K| CLASSICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1866
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP-4K| COSMO HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/COSMOHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| COSMO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1865
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CRIMEN INVES" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/CRIMEN%20AND%20INVES.png" group-title="EU| ESPAÑA 4K",|SP-4K| CRIMEN INVES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1864
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP-4K| DIVINITY" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DIVINITY.png" group-title="EU| ESPAÑA 4K",|SP-4K| DIVINITY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1863
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP-4K| ENERGY" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/ENERGY.png" group-title="EU| ESPAÑA 4K",|SP-4K| ENERGY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1862
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| DEPORTES 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| DEPORTES 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1834
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP-4K| M.LCAMPEONES" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.LCAMPEONES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1860
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="|SP-4K| M.LALIGA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.LALIGA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1857
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP-4K| EUROSPORT1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÑA 4K",|SP-4K| EUROSPORT1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1855
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP-4K| EUROSPORT 1" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÑA 4K",|SP-4K| EUROSPORT 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1854
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP-4K| EUROSPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/EUROSPORT2.png" group-title="EU| ESPAÑA 4K",|SP-4K| EUROSPORT 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1853
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP-4K| TELEDEPORTE" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TELEDEPORTE.png" group-title="EU| ESPAÑA 4K",|SP-4K| TELEDEPORTE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1831
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP-4K| M.DEPORTES 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.DEPORTES 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1832
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M.WIMBLEDON HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MWIMBLEDONHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.WIMBLEDON HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1828
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP-4K| M. DEPORTES HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÑA 4K",|SP-4K| M. DEPORTES HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1833
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M.DEPORTES 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes2.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.DEPORTES 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/226591
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M.DEPORTES 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDeportes3.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.DEPORTES 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/226592
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP-4K| GOL" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/GOL.png" group-title="EU| ESPAÑA 4K",|SP-4K| GOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1852
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|SP-4K| BAR TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/BARTV.png" group-title="EU| ESPAÑA 4K",|SP-4K| BAR TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1851
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP-4K| R.MADRID TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/RMADRIDTV.png" group-title="EU| ESPAÑA 4K",|SP-4K| R.MADRID TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1850
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP-4K| TOROS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/TOROSHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| TOROS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1849
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|SP-4K| M.GOLF HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MGOLFHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.GOLF HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1846
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31269
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31271
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÑA 4K",|SP-4K| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/31273
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN1.png" group-title="EU| ESPAÑA 4K",|SP-4K| DAZN 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/41321
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN2.png" group-title="EU| ESPAÑA 4K",|SP-4K| DAZN 2 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/41322
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN3.png" group-title="EU| ESPAÑA 4K",|SP-4K| DAZN 3 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157481
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZN4.png" group-title="EU| ESPAÑA 4K",|SP-4K| DAZN 4 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157480
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN F1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DAZNF1.png" group-title="EU| ESPAÑA 4K",|SP-4K| DAZN F1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/157479
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| MOVIESTAR 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| MOVIESTAR 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1844
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP-4K| M.ACCION HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MACCIONHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.ACCION HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1843
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP-4K| M.CINE ESPANOL" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MCINEESPANOL.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.CINE ESPANOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1842
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP-4K| M.COMEDIA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.COMEDIA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1841
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP-4K| M.DRAMA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MDRAMAHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.DRAMA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1840
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP-4K| M.ESTRENOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MESTRENOSHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.ESTRENOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1839
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP-4K| M.SERIES HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MSERIESHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.SERIES HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1836
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="|SP-4K| M.SERIESMANIA HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="EU| ESPAÑA 4K",|SP-4K| M.SERIESMANIA HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1835
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| SOMOS HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/SOMOS.png" group-title="EU| ESPAÑA 4K",|SP-4K| SOMOS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/300096
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| MUSICA 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| MUSICA 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1827
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP-4K| MTV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MTV.png" group-title="EU| ESPAÑA 4K",|SP-4K| MTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1826
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| MTV ESPA¹A" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MTVESPAA.png" group-title="EU| ESPAÑA 4K",|SP-4K| MTV ESPA¹A
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1824
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP-4K| SUNDANCE TV" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/SUNDANCETV.png" group-title="EU| ESPAÑA 4K",|SP-4K| SUNDANCE TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1821
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP-4K| MEZZO" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/MEZZO.png" group-title="EU| ESPAÑA 4K",|SP-4K| MEZZO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1830
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP-4K| MEZZO LIVE HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/Mezzolive.png" group-title="EU| ESPAÑA 4K",|SP-4K| MEZZO LIVE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1829
+#EXTINF:-1 tvg-id="" tvg-name="## |SP| CULTURA 4K ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA 4K",## |SP| CULTURA 4K ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1820
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP-4K| DISCOVERY" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/DISCOVERY.png" group-title="EU| ESPAÑA 4K",|SP-4K| DISCOVERY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1819
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP-4K| NAT GEO HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NATGEO.png" group-title="EU| ESPAÑA 4K",|SP-4K| NAT GEO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1818
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP-4K| NAT GEO WILD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NATGEOWILD.png" group-title="EU| ESPAÑA 4K",|SP-4K| NAT GEO WILD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1817
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| NAT GEO WILD HD" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/NATGEOWILD.png" group-title="EU| ESPAÑA 4K",|SP-4K| NAT GEO WILD HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1816
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DMAX HD" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DMAX.png" group-title="EU| ESPAÑA 4K",|SP-4K| DMAX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/229597
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP-4K| NEOX" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/NEOX.png" group-title="EU| ESPAÑA 4K",|SP-4K| NEOX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1815
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP-4K| PARAMOUNT" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/PARAMOUNT.png" group-title="EU| ESPAÑA 4K",|SP-4K| PARAMOUNT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1814
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| VH1" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/VH1.png" group-title="EU| ESPAÑA 4K",|SP-4K| VH1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1813
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP-4K| HISTORIA" tvg-logo="http://logo.crystalott.net:8080/logos//SPAIN/HISTORY.png" group-title="EU| ESPAÑA 4K",|SP-4K| HISTORIA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1811
+#EXTINF:-1 tvg-id="" tvg-name="## UNIMAS ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="US| LATINO",## UNIMAS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165886
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS HD" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165885
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS HD NEW YORK]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS HD NEW YORK]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165884
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 17 HD SAN ANTONIO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 17 HD SAN ANTONIO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165883
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 26 HD ORLAND]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 26 HD ORLAND]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165882
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 27 HD [BOSTON]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 27 HD [BOSTON]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165881
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 28 HD PHILADELPHIA]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 28 HD PHILADELPHIA]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165880
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 46 HD [LOS ANGELES]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 46 HD [LOS ANGELES]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165879
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 50 HD DENVER]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 50 HD DENVER]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165878
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 60 HD CHICAGO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 60 HD CHICAGO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165877
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 67 HD HOUSTON]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 67 HD HOUSTON]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165876
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIMAS 69 HD [MIAMI]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIMAS/UNIMAS.png" group-title="US| LATINO",|US| UNIMAS 69 HD [MIAMI]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165875
+#EXTINF:-1 tvg-id="" tvg-name="## TELEMUNDO ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="US| LATINO",## TELEMUNDO ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165874
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO HD" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165873
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO HD CHICAGO]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO HD CHICAGO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165872
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO DORAL]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO DORAL]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165871
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO HD SAN DIEGO]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO HD SAN DIEGO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165870
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO NORTH [LAS VEGAS]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO NORTH [LAS VEGAS]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165869
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO HD [PHOENIX]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO HD [PHOENIX]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165868
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 24 HD CHICO-REDDING]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 24 HD CHICO-REDDING]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165864
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 30 HD OKLAHOMA CITY]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 30 HD OKLAHOMA CITY]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165863
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 31 HD HARTFORD]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 31 HD HARTFORD]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165862
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 31 HD ORLANDO]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 31 HD ORLANDO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165861
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 42 HD NEW ORLEANS]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 42 HD NEW ORLEANS]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165859
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 44 HD WASHINGTON DC]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 44 HD WASHINGTON DC]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165858
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 44 BALTIMORE]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 44 BALTIMORE]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165857
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 47 HD" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 47 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165856
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 47 CLEVELAND]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 47 CLEVELAND]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165855
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 47 [ATLANTA]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 47 [ATLANTA]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165854
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 48 SEATTLE]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 48 SEATTLE]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165853
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 48 SAN FRANCISCO]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 48 SAN FRANCISCO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165852
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 51 HD [MIAMI]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 51 HD [MIAMI]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165851
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 52 HD [LOS ANGELES]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 52 HD [LOS ANGELES]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165850
+#EXTINF:-1 tvg-id="" tvg-name="|US| TELEMUNDO 62 HD PHILADELPHIA]" tvg-logo="http://logo.crystalott.net:8080/logos/USATELEMUNDO/TELEMUNDOO.png" group-title="US| LATINO",|US| TELEMUNDO 62 HD PHILADELPHIA]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165849
+#EXTINF:-1 tvg-id="" tvg-name="## UNIVISION ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="US| LATINO",## UNIVISION ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165848
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 14 HD SAN FRANCISCO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 14 HD SAN FRANCISCO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165847
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 19 HD SACRAMENTO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 19 HD SACRAMENTO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165846
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 23 HD [MIAMI]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 23 HD [MIAMI]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165845
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 27 HD [BOSTON]" tvg-logo="" group-title="US| LATINO",|US| UNIVISION 27 HD [BOSTON]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/310031
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 33 HD [PHOENIX]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 33 HD [PHOENIX]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165844
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 34 HD [ATLANTA]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 34 HD [ATLANTA]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165843
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 34 HD [LOS ANGELES]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 34 HD [LOS ANGELES]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165842
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 41 HD NEW YORK]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 41 HD NEW YORK]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165841
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 41 HD SAN ANTONIO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 41 HD SAN ANTONIO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165840
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 45 HD HOUSTON]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 45 HD HOUSTON]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165839
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 61 HD CLEVELAND]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 61 HD CLEVELAND]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165838
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 65 HD NEW JERSEY]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 65 HD NEW JERSEY]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165837
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 65 HD [PHILADELPHIA]" tvg-logo="" group-title="US| LATINO",|US| UNIVISION 65 HD [PHILADELPHIA]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/310030
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVISION 66 HD CHICAGO]" tvg-logo="http://logo.crystalott.net:8080/logos/USA.UNIVISION/UNVISION.png" group-title="US| LATINO",|US| UNIVISION 66 HD CHICAGO]
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/165836
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| GENERAL ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7858
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FORO TV" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOROTV.png" group-title="AM| LATINO",|LATIN| FORO TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7856
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TDN" tvg-logo="http://103.161.34.214:81/logos/LATINO/TDN.png" group-title="AM| LATINO",|LATIN| TDN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7855
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HOLA TV" tvg-logo="http://103.161.34.214:81/logos/LATINO/HOLATV.png" group-title="AM| LATINO",|LATIN| HOLA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7854
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE LATINO" tvg-logo="http://103.161.34.214:81/logos/LATINO/CINELATINO.png" group-title="AM| LATINO",|LATIN| CINE LATINO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7853
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| LIFETIME" tvg-logo="http://103.161.34.214:81/logos/LATINO/LIFETIME.png" group-title="AM| LATINO",|LATIN| LIFETIME
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7852
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MILENIO TV" tvg-logo="http://103.161.34.214:81/logos/LATINO/MILENIOTV.png" group-title="AM| LATINO",|LATIN| MILENIO TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7851
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ARTS" tvg-logo="http://103.161.34.214:81/logos/LATINO/ARTS.png" group-title="AM| LATINO",|LATIN| ARTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7850
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| 52MX" tvg-logo="http://103.161.34.214:81/logos/LATINO/52MX.png" group-title="AM| LATINO",|LATIN| 52MX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7849
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMERICATEVE" tvg-logo="http://103.161.34.214:81/logos/LATINO/AMERICATEVE.png" group-title="AM| LATINO",|LATIN| AMERICATEVE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7848
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GLITZ" tvg-logo="http://103.161.34.214:81/logos/LATINO/GLITZ.png" group-title="AM| LATINO",|LATIN| GLITZ
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7847
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TBS" tvg-logo="http://103.161.34.214:81/logos/LATINO/TBS.png" group-title="AM| LATINO",|LATIN| TBS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7846
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO INTERNACIONAL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TELEMUNDO INTERNACIONAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7845
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIMAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNIMAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7844
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ISAT" tvg-logo="http://103.161.34.214:81/logos/LATINO/ISAT.png" group-title="AM| LATINO",|LATIN| ISAT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7843
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| PASIONES" tvg-logo="http://103.161.34.214:81/logos/LATINO/PASIONES.png" group-title="AM| LATINO",|LATIN| PASIONES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7842
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GALAVISION HD" tvg-logo="http://103.161.34.214:81/logos/LATINO/GALAVISION.png" group-title="AM| LATINO",|LATIN| GALAVISION HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/127475
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| MOVIES ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| MOVIES ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7841
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HBO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7840
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HBO 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7839
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO PLUS" tvg-logo="http://103.161.34.214:81/logos/LATINO/HBOSIGNATURE.png" group-title="AM| LATINO",|LATIN| HBO PLUS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7838
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO FAMILY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HBO FAMILY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7837
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO SIGNATURE" tvg-logo="http://103.161.34.214:81/logos/LATINO/HBOSIGNATURE.png" group-title="AM| LATINO",|LATIN| HBO SIGNATURE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7836
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO ESTE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HBO ESTE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7835
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM MOVIES" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMMOVIES.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM MOVIES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7834
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM CINEMA" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMCINEMA.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM CINEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7833
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM ACTION" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMACTION.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM ACTION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7832
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM COMEDY" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMCOMEDY.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM COMEDY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7831
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM FAMILY" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMFAMILY.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM FAMILY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7830
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM SERIES" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXPREMIUMSERIES.png" group-title="AM| LATINO",|LATIN| FOX PREMIUM SERIES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7829
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNIVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7828
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION TELENOVELAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNIVISION TELENOVELAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7827
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELENOVELAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TELENOVELAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7826
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNICABLE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNICABLE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7825
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TELEMUNDO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7824
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TLC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TLC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7823
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SYFY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| SYFY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7822
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| FX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7821
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| FOX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7820
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX ACTION" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXACTION.png" group-title="AM| LATINO",|LATIN| FOX ACTION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7819
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CINEMA" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXCINEMA.png" group-title="AM| LATINO",|LATIN| FOX CINEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7818
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CLASSIC" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXCLASSIC.png" group-title="AM| LATINO",|LATIN| FOX CLASSIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7817
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX LIFE" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXLIFE.png" group-title="AM| LATINO",|LATIN| FOX LIFE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7816
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX MOVIES" tvg-logo="http://103.161.34.214:81/logos/LATINO/FOXMOVIES.png" group-title="AM| LATINO",|LATIN| FOX MOVIES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7815
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| AMC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7814
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AXN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| AXN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7813
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GALA TV" tvg-logo="http://103.161.34.214:81/logos/LATINO/GALATV.png" group-title="AM| LATINO",|LATIN| GALA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7812
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVERSAL CHANNEL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNIVERSAL CHANNEL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7811
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ UNO" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZUNO.png" group-title="AM| LATINO",|LATIN| AZ UNO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7810
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ MAS" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZMAS.png" group-title="AM| LATINO",|LATIN| AZ MAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7809
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA 7" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZTECA7.png" group-title="AM| LATINO",|LATIN| AZTECA 7
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7808
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CINEMA" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZTECACINEMA.png" group-title="AM| LATINO",|LATIN| AZTECA CINEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7807
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CORAZON" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZTECACORAZON.png" group-title="AM| LATINO",|LATIN| AZTECA CORAZON
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7806
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CLIC" tvg-logo="http://103.161.34.214:81/logos/LATINO/AZTECACLIC.png" group-title="AM| LATINO",|LATIN| AZTECA CLIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7805
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE CANAL" tvg-logo="http://103.161.34.214:81/logos/LATINO/CINECANAL.png" group-title="AM| LATINO",|LATIN| CINE CANAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7804
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MULTIPREMIER" tvg-logo="http://103.161.34.214:81/logos/LATINO/MULTIPREMIER.png" group-title="AM| LATINO",|LATIN| MULTIPREMIER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7803
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DHE" tvg-logo="http://103.161.34.214:81/logos/LATINO/DHE.png" group-title="AM| LATINO",|LATIN| DHE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7802
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| WARNER CHANNEL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| WARNER CHANNEL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7801
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO CINEMA" tvg-logo="http://103.161.34.214:81/logos/LATINO/clarocinema.png" group-title="AM| LATINO",|LATIN| CLARO CINEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7799
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN PREMIER" tvg-logo="http://103.161.34.214:81/logos/LATINO/goldenpremier.png" group-title="AM| LATINO",|LATIN| GOLDEN PREMIER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7798
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| PARAMOUNT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| PARAMOUNT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7797
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SONY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| SONY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7796
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SPACE" tvg-logo="http://103.161.34.214:81/logos/LATINO/SPACE.png" group-title="AM| LATINO",|LATIN| SPACE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7795
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| STUDIO UNIVERSAL" tvg-logo="http://103.161.34.214:81/logos/LATINO/STUDIOUNIVERSAL.png" group-title="AM| LATINO",|LATIN| STUDIO UNIVERSAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7794
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TCM" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TCM
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7793
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT SERIES" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TNT SERIES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7792
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TNT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7791
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN EDGE" tvg-logo="http://103.161.34.214:81/logos/LATINO/GOLDENEDGE.png" group-title="AM| LATINO",|LATIN| GOLDEN EDGE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7790
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN" tvg-logo="http://103.161.34.214:81/logos/LATINO/GOLDEN.png" group-title="AM| LATINO",|LATIN| GOLDEN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7789
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MAX UP" tvg-logo="http://103.161.34.214:81/logos/LATINO/MAXUP.png" group-title="AM| LATINO",|LATIN| MAX UP
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7788
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| ENTERTAINMENTS ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| ENTERTAINMENTS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7787
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINEMA DINAMITA" tvg-logo="http://103.161.34.214:81/logos/LATINO/CINEMADINAMITA.png" group-title="AM| LATINO",|LATIN| CINEMA DINAMITA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7786
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| A&E" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| A&E
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7785
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MASCHIC" tvg-logo="http://103.161.34.214:81/logos/LATINO/MASCHIC.png" group-title="AM| LATINO",|LATIN| MASCHIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7784
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISTRITO COMEDIA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISTRITO COMEDIA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7783
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| E! ENTERTAINMENT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| E! ENTERTAINMENT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7782
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TRU TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TRU TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7781
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOURMET" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| GOURMET
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7780
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| KIDS ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| KIDS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7779
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP KIDS MICKEY MOUSE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP KIDS MICKEY MOUSE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/238304
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP KIDS GUMBALL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP KIDS GUMBALL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/308630
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY CHANNEL." tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISNEY CHANNEL.
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7778
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY JR" tvg-logo="http://logo.crystalott.net:8080/logos/SPAIN/DISNEYJR.png" group-title="AM| LATINO",|LATIN| DISNEY JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7777
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK JR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| NICK JR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7776
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| NICK 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7775
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY XD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISNEY XD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7774
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICKELODEON" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| NICKELODEON
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7773
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| COMEDY CENTRAL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| COMEDY CENTRAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7772
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| BOOMERANG" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| BOOMERANG
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7771
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 11" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CANAL 11
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7770
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 5" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CANAL 5
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7769
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL DE LAS ESTRELLAS." tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CANAL DE LAS ESTRELLAS.
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7768
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CARTOON NETWORK" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CARTOON NETWORK
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7767
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE MAX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CINE MAX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7766
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ONCE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ONCE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7765
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| DOCUMENTARY ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| DOCUMENTARY ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7764
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP DOCU RELAXATION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP DOCU RELAXATION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/229324
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP DOCUMNTARY 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP DOCUMNTARY 1 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/289591
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| NAT GEO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7763
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO WILD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| NAT GEO WILD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7762
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY CHANNEL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY CHANNEL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7761
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY INVESTIGATION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY INVESTIGATION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7760
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY HOME&HEALTH" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY HOME&HEALTH
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7759
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY KIDS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY KIDS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7758
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY TURBO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY TURBO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7757
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY THEATER" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY THEATER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7756
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY SCIENCE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| DISCOVERY SCIENCE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7755
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ANIMAL PLANET" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ANIMAL PLANET
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7754
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HISTORY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HISTORY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7753
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ID" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ID
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7752
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| H2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| H2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7751
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| SPORTS ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| SPORTS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7750
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ESPN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7749
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 2." tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ESPN 2.
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7748
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| ESPN 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7747
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| FOX SPORT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7746
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| FOX SPORT 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7745
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION DEPORTES" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| UNIVISION DEPORTES
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7744
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CLARO SPORT 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7743
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| WIN SPORT HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| WIN SPORT HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7742
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CLARO SPORT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7741
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| NEWS ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| NEWS ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7740
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CNN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| CNN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7739
+#EXTINF:-1 tvg-id="" tvg-name="## |LATIN| MUSIC ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/BackgroundCrystal.png" group-title="AM| LATINO",## |LATIN| MUSIC ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7738
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP MUSIC HIT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP MUSIC HIT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/230735
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| POP MUSIC AFRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="AM| LATINO",|LATIN| POP MUSIC AFRO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/318486
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| HTV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| HTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7736
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TUMUSICA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| TUMUSICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7735
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MTV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| MTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7734
+#EXTINF:-1 tvg-id="" tvg-name="|LATIN| VH1" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|LATIN| VH1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7732
+#EXTINF:-1 tvg-id="" tvg-name="## |ARGENTINA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ARGENTINE.png" group-title="AM| LATINO",## |ARGENTINA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7731
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TV PUBLICA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TV PUBLICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7730
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TELEFE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TELEFE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7728
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| EL TRECE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| EL TRECE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7727
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ELNUEVE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ELNUEVE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7726
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ENCUENTRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ENCUENTRO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7725
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| LN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| LN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7724
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ARGENTINISIMA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ARGENTINISIMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7723
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| CANAL DE LA CIUDAD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| CANAL DE LA CIUDAD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7722
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| 13 MAX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| 13 MAX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7721
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| CINE AR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| CINE AR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7719
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| CRONICA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| CRONICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7717
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| CANAL 4" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| CANAL 4
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7716
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TOP LATINO TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TOP LATINO TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7715
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7714
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| C5N" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| C5N
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7713
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| CANAL 26" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| CANAL 26
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7712
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| A24" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| A24
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7711
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| MUSIC TOP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| MUSIC TOP
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7709
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| AMERICA TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| AMERICA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7729
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| PAKAPAKA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| PAKAPAKA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7708
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| FOX SPORT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| FOX SPORT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7707
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| FOX SPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| FOX SPORT 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7706
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| FOX SPORT 3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| FOX SPORT 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7705
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| FOX SPORTS PREMIUM" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| FOX SPORTS PREMIUM
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7704
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TNT SPORT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TNT SPORT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7703
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| DIRECT TV SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| DIRECT TV SPORTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7702
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| DIRECT TV SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| DIRECT TV SPORTS 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7701
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| DIRECT TV SPORTS PLUS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| DIRECT TV SPORTS PLUS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7700
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ESPN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7699
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ESPN 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ESPN 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7698
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| ESPN 3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| ESPN 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7697
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENTINA| TYC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ARGENTINA| TYC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7696
+#EXTINF:-1 tvg-id="" tvg-name="## |URUGUAY| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/URUGWAY.png" group-title="AM| LATINO",## |URUGUAY| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7695
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TV CIUDAD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TV CIUDAD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7694
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| CANAL 10" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| CANAL 10
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7693
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| CHARRUA TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| CHARRUA TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7688
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| VTV HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| VTV HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/244835
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| VTV +" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| VTV +
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7686
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Comedy Central" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Comedy Central
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282590
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| CNN Internacional" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| CNN Internacional
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282589
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| CNN en Español" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| CNN en Español
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282588
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cinemax" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cinemax
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282587
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cinecanal Sur" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cinecanal Sur
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282586
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cine Latino" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cine Latino
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282585
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cartoonito" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cartoonito
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282584
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cartoon Network" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cartoon Network
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282583
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Bloomberg" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Bloomberg
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282582
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| AXN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| AXN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282581
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Atreseries" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Atreseries
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282580
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| América TV HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| América TV HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282577
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| A&E" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| A&E
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282575
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cámara de Representantes" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cámara de Representantes
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282688
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| El Canal de la Región - Noreste Canelones" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| El Canal de la Región - Noreste Canelones
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282687
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| France 24" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| France 24
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282686
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| RIO URUGUAY TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| RIO URUGUAY TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282685
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TVL Pando" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TVL Pando
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282684
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Uruguay Presidencia" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Uruguay Presidencia
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282683
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| MAM TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| MAM TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282682
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Pantalla IMPO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Pantalla IMPO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282681
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Camara de Senadores" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Camara de Senadores
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282680
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Artigas Television" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Artigas Television
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282679
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Durazno TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Durazno TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282678
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Cardinal" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Cardinal
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282677
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Plazacanal Treinta y Tres" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Plazacanal Treinta y Tres
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282676
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Adu Live" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Adu Live
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282675
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Telesur" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Telesur
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282674
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Maronas Entertainment" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Maronas Entertainment
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282673
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Florida Televisora Color" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Florida Televisora Color
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282672
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ANPI TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ANPI TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282671
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| RDTV 24HS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| RDTV 24HS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282670
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| RT Espanol" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| RT Espanol
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282669
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DW Espanol" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DW Espanol
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282668
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| A&V" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| A&V
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282667
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| 1000 x Hora TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| 1000 x Hora TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282666
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Aljazeera" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Aljazeera
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282665
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal-M" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal-M
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282664
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Latina Tv Paysandu" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Latina Tv Paysandu
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282663
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Al_Jazeera" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Al_Jazeera
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282662
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Television Nacional Uruguay  |P|" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Television Nacional Uruguay  |P|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282661
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| UCL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| UCL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282660
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TELE R" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TELE R
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282659
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| 1000XHora TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| 1000XHora TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282658
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal M" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal M
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282657
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Warner Channel" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Warner Channel
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282656
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Universal Chile" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Universal Chile
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282655
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Tru tv" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Tru tv
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282654
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TNT Series" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TNT Series
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282653
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TNT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TNT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282652
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Telemundo Internacional" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Telemundo Internacional
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282651
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TLC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TLC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282650
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TELEDOCE HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TELEDOCE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282649
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TCM" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| TCM
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282648
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| TBS" tvg-logo="http://103.161.34.214:81/logos/LATINO/TBS.png" group-title="AM| LATINO",|URUGUAY| TBS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282647
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| SyFy" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| SyFy
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282646
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Studio Universal" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Studio Universal
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282645
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Star Life" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Star Life
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282644
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Star Channel |South|" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Star Channel |South|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282643
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Space" tvg-logo="http://103.161.34.214:81/logos/LATINO/SPACE.png" group-title="AM| LATINO",|URUGUAY| Space
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282642
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Sony" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Sony
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282641
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| RAI International Spanish" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| RAI International Spanish
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282640
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Pasiones TV |Am|erica" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Pasiones TV |Am|erica
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282639
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Paramount Network" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Paramount Network
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282638
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Nick Jr" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Nick Jr
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282636
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| NBA TV International HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| NBA TV International HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282635
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| National Geographic" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| National Geographic
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282634
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| National Geo kids" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| National Geo kids
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282633
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| MTV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| MTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282631
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Mas Chic" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Mas Chic
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282630
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| LN+ HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| LN+ HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282629
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Lifetime" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Lifetime
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282628
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| IVC Net HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| IVC Net HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282627
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| I-SAT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| I-SAT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282626
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| HTV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| HTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282625
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| HOLATV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| HOLATV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282624
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| History Channel" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| History Channel
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282623
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| H2 History" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| H2 History
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282622
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Golf Channel" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Golf Channel
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282621
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Glitz" tvg-logo="http://103.161.34.214:81/logos/LATINO/GLITZ.png" group-title="AM| LATINO",|URUGUAY| Glitz
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282620
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| FX Movies" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| FX Movies
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282619
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| FX |Am|erica Colombia" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| FX |Am|erica Colombia
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282618
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| FOX Sports 3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| FOX Sports 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282617
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| FOX Sports 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| FOX Sports 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282616
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| FOOD NETWORK" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| FOOD NETWORK
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282615
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 2 HD San Carlos" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 2 HD San Carlos
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282713
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 2 Lascano" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 2 Lascano
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282712
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 2 Visión Canaria" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 2 Visión Canaria
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282711
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 2 San Carlos" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 2 San Carlos
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282710
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 4 Paysandu" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 4 Paysandu
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282709
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 4 Tacuarembo" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 4 Tacuarembo
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282708
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 4 Juan Lacaze" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 4 Juan Lacaze
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282707
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 4 Salto" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 4 Salto
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282706
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 5" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 5
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282704
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 6 Durazno" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 6 Durazno
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282703
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 7 Punta" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 7 Punta
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282702
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 8 Rocha" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 8 Rocha
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282701
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 8 Artigas" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 8 Artigas
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282700
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 8 Durazno" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 8 Durazno
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282699
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 8 Rivera" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 8 Rivera
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282698
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 8 Salto" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 8 Salto
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282697
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 9 Telerocha" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 9 Telerocha
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282696
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 11 Las Piedras" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 11 Las Piedras
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282695
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 11 Treinta y Tres" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 11 Treinta y Tres
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282694
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 12" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 12
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282693
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 12 Melo" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 12 Melo
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282692
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 23 Florida" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 23 Florida
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282691
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 26" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 26
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282690
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Canal 26 Radio y Television de Aguascalientes" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Canal 26 Radio y Television de Aguascalientes
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282689
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ESPN3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ESPN3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282613
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ESPN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282612
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ESPN EXTRA SOUTH" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ESPN EXTRA SOUTH
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282611
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ESPN 4 Sur" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ESPN 4 Sur
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282610
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| ESPN 2 |An|dina HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| ESPN 2 |An|dina HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282609
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| El Nueve HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| El Nueve HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282608
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| El Gourmet" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| El Gourmet
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282607
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| E! Entertainment" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| E! Entertainment
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282606
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Disney XD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Disney XD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282605
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Disney Junior" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Disney Junior
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282604
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Disney Channel Sur" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Disney Channel Sur
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282603
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Discovery Turbo" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Discovery Turbo
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282602
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Discovery Kids" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Discovery Kids
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282601
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Discovery ID" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Discovery ID
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282600
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Discovery Home & Health" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Discovery Home & Health
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282599
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| Discovery Channel" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| Discovery Channel
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282598
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV Sports Plus" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV Sports Plus
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282597
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV Sports |Uru|" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV Sports |Uru|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282596
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV Sports |Arg|" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV Sports |Arg|
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282595
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV Sports 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV Sports 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282594
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV eventos 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV eventos 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282593
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV eventos 5" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV eventos 5
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282592
+#EXTINF:-1 tvg-id="" tvg-name="|URUGUAY| DIRECTV eventos 6" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|URUGUAY| DIRECTV eventos 6
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/282591
+#EXTINF:-1 tvg-id="" tvg-name="## |MX| GENERAL ##" tvg-logo="" group-title="AM| LATINO",## |MX| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299037
+#EXTINF:-1 tvg-id="" tvg-name="|MX| BANDAMAX" tvg-logo="" group-title="AM| LATINO",|MX| BANDAMAX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299036
+#EXTINF:-1 tvg-id="" tvg-name="|MX| TELEVISA PUEBLO HD" tvg-logo="" group-title="AM| LATINO",|MX| TELEVISA PUEBLO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299035
+#EXTINF:-1 tvg-id="" tvg-name="|MX| MTV" tvg-logo="" group-title="AM| LATINO",|MX| MTV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299034
+#EXTINF:-1 tvg-id="" tvg-name="|MX| DE PELICULA PLUS" tvg-logo="" group-title="AM| LATINO",|MX| DE PELICULA PLUS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299032
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY ONE" tvg-logo="" group-title="AM| LATINO",|MX| SKY ONE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299031
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 1" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299030
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 2" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299029
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 3" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299028
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 4" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 4
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299027
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 7" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 7
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299026
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 8" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 8
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299025
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 10" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 10
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299024
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 11" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 11
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299023
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 12" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 12
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299022
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 13" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 13
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299021
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 14" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 14
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299020
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 15" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 15
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299019
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY MEXICO 17" tvg-logo="" group-title="AM| LATINO",|MX| SKY MEXICO 17
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299018
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 1" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299017
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 6" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 6
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299016
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 16" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 16
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299015
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 21" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 21
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299014
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 24" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 24
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299013
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 34" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 34
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299012
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SKY SPORTS 35" tvg-logo="" group-title="AM| LATINO",|MX| SKY SPORTS 35
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/299011
+#EXTINF:-1 tvg-id="" tvg-name="## |COLOMBIA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/COLOMBIA.png" group-title="AM| LATINO",## |COLOMBIA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7685
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CARACOL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CARACOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7684
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CARACOL HD2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CARACOL HD2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7683
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CARACOL INTERNACIONAL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CARACOL INTERNACIONAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7682
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| RCN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| RCN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7681
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| RCN HD2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| RCN HD2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7680
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| RCN NOVELAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| RCN NOVELAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7679
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| SENAL COLOMBIA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| SENAL COLOMBIA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7678
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| TELEPACIFICO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| TELEPACIFICO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7677
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| TELE MEDELLIN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| TELE MEDELLIN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7675
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| TRECE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| TRECE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7674
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CABLENOTICIAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CABLENOTICIAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7673
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CITY TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CITY TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7672
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CANAL CAPITAL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CANAL CAPITAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7671
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CANAL TRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CANAL TRO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7669
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CANAL UNO HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CANAL UNO HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7668
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CARACOL FHD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CARACOL FHD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7666
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| EL TIEMPO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| EL TIEMPO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7664
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| NTN24" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| NTN24
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7662
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| CANAL TRECE HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| CANAL TRECE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7658
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| TELEVID" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| TELEVID
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7656
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| WINSPORTS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| WINSPORTS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7655
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| DIRECTV SPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| DIRECTV SPORTS 1
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7652
+#EXTINF:-1 tvg-id="" tvg-name="|COLOMBIA| DIRECTV SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|COLOMBIA| DIRECTV SPORTS 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7651
+#EXTINF:-1 tvg-id="" tvg-name="##|HONDURAS| GENERAL##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/HONDURAS.png" group-title="AM| LATINO",##|HONDURAS| GENERAL##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161228
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| AZTECA HONDURAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| AZTECA HONDURAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161227
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| CAMPUS TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| CAMPUS TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161226
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| CANAL 11 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| CANAL 11 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161225
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| CANAL 5 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| CANAL 5 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161223
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| TVC EL LIDER" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| TVC EL LIDER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161222
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| CANAL 6 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| CANAL 6 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161221
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| TELE CADENA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| TELE CADENA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161220
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| TELE PROGRESO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| TELE PROGRESO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161218
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| TSI" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| TSI
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161217
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| UNE TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| UNE TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161216
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| TELE SISTEMA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| TELE SISTEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161215
+#EXTINF:-1 tvg-id="" tvg-name="|HONDURAS| CANAL 10" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|HONDURAS| CANAL 10
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161214
+#EXTINF:-1 tvg-id="" tvg-name="## |CHILE| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/CHILE.png" group-title="AM| LATINO",## |CHILE| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7649
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| CHILEVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| CHILEVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7648
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| TVN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| TVN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7647
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| 13 CABLE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| 13 CABLE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7646
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| CANAL13" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| CANAL13
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7645
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| LA RED" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| LA RED
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7644
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| MEGA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| MEGA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7643
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| CDF PREMIUN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| CDF PREMIUN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7642
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| CNN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| CNN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7641
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| CDF" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| CDF
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7640
+#EXTINF:-1 tvg-id="" tvg-name="|CHILE| FOX SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CHILE| FOX SPORTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7639
+#EXTINF:-1 tvg-id="" tvg-name="## |CUBA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/CUBA.png" group-title="AM| LATINO",## |CUBA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7638
+#EXTINF:-1 tvg-id="" tvg-name="|CUBA| CUBAVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CUBA| CUBAVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7637
+#EXTINF:-1 tvg-id="" tvg-name="|CUBA| CUBAVISION INTERNACIONAL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CUBA| CUBAVISION INTERNACIONAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7636
+#EXTINF:-1 tvg-id="" tvg-name="## |RDOM| GENERAL ##" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",## |RDOM| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7633
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| CANAL 9" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| CANAL 9
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7632
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| TELESISTEMA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| TELESISTEMA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7630
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| READY TELEVISION HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| READY TELEVISION HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7629
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| TELERADIO AMERICA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| TELERADIO AMERICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7626
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| TELEMICRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| TELEMICRO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7625
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| MICROVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| MICROVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7622
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| DIGITAL VISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| DIGITAL VISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7621
+#EXTINF:-1 tvg-id="" tvg-name="|RDOM| DIGITAL 15" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|RDOM| DIGITAL 15
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7620
+#EXTINF:-1 tvg-id="" tvg-name="## |COSTA RICA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/COSTA%20RICA.png" group-title="AM| LATINO",## |COSTA RICA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256492
+#EXTINF:-1 tvg-id="" tvg-name="|CR| CANAL 14 TV SUR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| CANAL 14 TV SUR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256491
+#EXTINF:-1 tvg-id="" tvg-name="|CR| TIGO SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| TIGO SPORTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256490
+#EXTINF:-1 tvg-id="" tvg-name="|CR| REPRETEL 11 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| REPRETEL 11 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256488
+#EXTINF:-1 tvg-id="" tvg-name="|CR| TELETICA 7 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| TELETICA 7 HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256487
+#EXTINF:-1 tvg-id="" tvg-name="|CR| 88 STEREO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| 88 STEREO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256486
+#EXTINF:-1 tvg-id="" tvg-name="|CR| TELEUNO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|CR| TELEUNO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256485
+#EXTINF:-1 tvg-id="" tvg-name="## |VENEZUELA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/VENZUELA.png" group-title="AM| LATINO",## |VENEZUELA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7616
+#EXTINF:-1 tvg-id="" tvg-name="|VENEZUELA| PROMAR" tvg-logo="http://103.161.34.214:81/logos/LATINO/PROMAR.png" group-title="AM| LATINO",|VENEZUELA| PROMAR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7615
+#EXTINF:-1 tvg-id="" tvg-name="|VENEZUELA| TELESUR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|VENEZUELA| TELESUR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7614
+#EXTINF:-1 tvg-id="" tvg-name="|VENEZUELA| GLOBOVISION" tvg-logo="http://103.161.34.214:81/logos/LATINO/GLOBOVISION.png" group-title="AM| LATINO",|VENEZUELA| GLOBOVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7613
+#EXTINF:-1 tvg-id="" tvg-name="|VENEZUELA| CANAL ONCE" tvg-logo="http://103.161.34.214:81/logos/LATINO/CANALONCE.png" group-title="AM| LATINO",|VENEZUELA| CANAL ONCE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7612
+#EXTINF:-1 tvg-id="" tvg-name="|VENEZUELA| VENEVISION" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="AM| LATINO",|VENEZUELA| VENEVISION  
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##|GUATEMALA| GENERAL##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/GUATEMALA.png" group-title="AM| LATINO",##|GUATEMALA| GENERAL##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161236
+#EXTINF:-1 tvg-id="" tvg-name="|GUATEMALA| CANAL 11" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|GUATEMALA| CANAL 11
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161235
+#EXTINF:-1 tvg-id="" tvg-name="|GUATEMALA| CANAL 3" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|GUATEMALA| CANAL 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161234
+#EXTINF:-1 tvg-id="" tvg-name="|GUATEMALA| GUATEVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|GUATEMALA| GUATEVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161231
+#EXTINF:-1 tvg-id="" tvg-name="|GUATEMALA| RETRO TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|GUATEMALA| RETRO TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/161230
+#EXTINF:-1 tvg-id="" tvg-name="|GUATEMALA| CANAL ANTIGUA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|GUATEMALA| CANAL ANTIGUA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/229621
+#EXTINF:-1 tvg-id="" tvg-name="## |PERU| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/PERU.png" group-title="AM| LATINO",## |PERU| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7609
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| LATINA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| LATINA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7608
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| AMERICA TELEVISION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| AMERICA TELEVISION
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7607
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| ATV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| ATV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7606
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| PANAMERICANA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| PANAMERICANA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7604
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| TV PERU" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| TV PERU
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7603
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| CAPITAL TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| CAPITAL TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7601
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| GOL TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| GOL TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7600
+#EXTINF:-1 tvg-id="" tvg-name="|PERU| CANAL N" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PERU| CANAL N
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7599
+#EXTINF:-1 tvg-id="" tvg-name="## |PANAMA| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/PANAMA.png" group-title="AM| LATINO",## |PANAMA| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7598
+#EXTINF:-1 tvg-id="" tvg-name="|PANAMA| NEX CANAL 21" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PANAMA| NEX CANAL 21
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/261792
+#EXTINF:-1 tvg-id="" tvg-name="|PANAMA| RPC TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PANAMA| RPC TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/261791
+#EXTINF:-1 tvg-id="" tvg-name="|PANAMA| TELEMETRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PANAMA| TELEMETRO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/261790
+#EXTINF:-1 tvg-id="" tvg-name="|PANAMA| TVN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|PANAMA| TVN
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/261789
+#EXTINF:-1 tvg-id="" tvg-name="## |ECUADOR| GENERAL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ECUADOR.png" group-title="AM| LATINO",## |ECUADOR| GENERAL ##
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7595
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| CANAL UNO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| CANAL UNO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7594
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| ECUADOR TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| ECUADOR TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7593
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| ECUAVISA" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| ECUAVISA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7592
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| RTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| RTS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7591
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| TC ECUADOR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| TC ECUADOR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7590
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| TELE AMAZONAS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| TELE AMAZONAS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7589
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| GOL TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| GOL TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/7588
+#EXTINF:-1 tvg-id="" tvg-name="|ECUADOR| CANAL DEL FUTBOL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="AM| LATINO",|ECUADOR| CANAL DEL FUTBOL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/256489
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2039
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE QUICKIES HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE QUICKIES HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2038
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE GOLD HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE GOLD HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2037
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE BLACK
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2036
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVATE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVATE TV HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2034
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVIDTV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVIDTV EUROPE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2033
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANG U" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANG U
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2032
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANGERZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANGERZ
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2031
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BARELY LEGAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| BARELY LEGAL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2030
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WERK " tvg-logo="" group-title="FOR ADULTS",|ADULT| WERK 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2029
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE HD " tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE HD 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2028
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC3 " tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC3 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2027
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2026
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC2" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2025
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CANDY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| CANDY HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2024
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NAUGHTY " tvg-logo="" group-title="FOR ADULTS",|ADULT| NAUGHTY 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2023
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2022
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL XXX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2021
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREME
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/138042
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RKTV " tvg-logo="" group-title="FOR ADULTS",|ADULT| RKTV 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2019
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2018
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROXXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROXXX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2017
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EVIL ANGEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EVIL ANGEL HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2016
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIEXXX " tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIEXXX 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2015
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREM" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREM
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2014
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK CLUB " tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK CLUB 
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2013
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FREE X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FREE X TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2012
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2011
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRENCH LOVER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRENCH LOVER EUROPE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2010
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2009
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2008
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2007
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| JASMIN TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| JASMIN TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2006
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LEO TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| LEO TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2005
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",|ADULT| LESBIAN AFFAIR
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2004
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MEIDEN VAN HOLLAND HARD" tvg-logo="" group-title="FOR ADULTS",|ADULT| MEIDEN VAN HOLLAND HARD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2003
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2002
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NET XX" tvg-logo="" group-title="FOR ADULTS",|ADULT| NET XX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2001
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NUART TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| NUART TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/2000
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| OLDTIMER" tvg-logo="" group-title="FOR ADULTS",|ADULT| OLDTIMER
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1998
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSION XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSION XXX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1997
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIE XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIE XXX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1996
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK O TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK O TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1995
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1994
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY EUROPE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1993
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYHOUSE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYHOUSE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1992
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVE TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVE TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1991
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REALITY KINGS" tvg-logo="" group-title="FOR ADULTS",|ADULT| REALITY KINGS
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1990
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RED XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| RED XXX
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1989
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REDLIGHT HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| REDLIGHT HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1988
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RUSSIAN NIGHT" tvg-logo="" group-title="FOR ADULTS",|ADULT| RUSSIAN NIGHT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1987
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SCT CLASSIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| SCT CLASSIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1986
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SECRET CIRCLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SECRET CIRCLE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1985
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXT & SENSO" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXT & SENSO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1983
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXTREME
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1982
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXY HOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXY HOT
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1981
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| STARS XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| STARS XXX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1980
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPER ONE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPER ONE HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1979
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| TABOO" tvg-logo="" group-title="FOR ADULTS",|ADULT| TABOO
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1978
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VENUS TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| VENUS TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1977
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID RED HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID RED HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1976
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID TV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID TV EUROPE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1975
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X BIZARRE" tvg-logo="" group-title="FOR ADULTS",|ADULT| X BIZARRE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1974
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X BUNGA BUNGA" tvg-logo="" group-title="FOR ADULTS",|ADULT| X BUNGA BUNGA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1973
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X DESIRE" tvg-logo="" group-title="FOR ADULTS",|ADULT| X DESIRE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1972
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="FOR ADULTS",|ADULT| XXL
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1970
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MAX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MAX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1969
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MIX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MIX HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1968
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY PLUS HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY PLUS HD
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1967
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ZEST TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| ZEST TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1966
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BALKAN EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| BALKAN EROTIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1965
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPERONE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPERONE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1954
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WAAYH" tvg-logo="" group-title="FOR ADULTS",|ADULT| WAAYH
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1953
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1952
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 2
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1951
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 3
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1950
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 4
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1949
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 5" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 5
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1948
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 6" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 6
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1947
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 7" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 7
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1946
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXX EXOTICA" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXX EXOTICA
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1944
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FASHION TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FASHION TV
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1943
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLUE HUSTLER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLUE HUSTLER EUROPE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1942
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EMANUELLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| EMANUELLE
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1940
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAST BOYZ
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1939
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MAN-X" tvg-logo="" group-title="FOR ADULTS",|ADULT| MAN-X
+http://line.eagletv.co:80/Nina/EOYBV2HVRS/1938
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| P HD PRIVATE" tvg-logo="" group-title="FOR ADULTS",|ADULT| P HD PRIVATE
