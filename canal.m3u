@@ -1593,3 +1593,987 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1, A3Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1,group-title="Noticias",LN+
+plugin://plugin.video.youtube/play/?video_id=HYxWurJ3ejE
+
+#EXTINF:-1,group-title="Deportes",GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:31,group-title="Entre Rios",RemansoTV
+#EXTVLCOPT:network-caching=10000
+https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
+
+#EXTINF:31,group-title="Entre Rios",Canal 2 Gualeguay Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1633951586.m3u8
+
+#EXTINF:31,group-title="Entre Rios",Canal 5 Colonia Avellaneda Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
+
+#EXTINF:31,group-title="Entre Rios",Canal 6 Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:31,group-title="Entre Rios",Canal 9 Litoral Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
+
+#EXTINF:31,group-title="Entre Rios",ItelTV Chajari Entre Rios
+#EXTVLCOPT:network-caching=10000
+http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
+
+#EXTINF:31,group-title="Entre Rios",FM 103.1 Litoral
+#EXTVLCOPT:network-caching=10000
+https://stmv1.srvstm.com/litoral2/litoral2/playlist.m3u8
+
+#EXTINF:31,group-title="Entre Rios",Canal de las Aldeas Alemanas FM Brasilera Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
+
+#EXTINF:31,group-title="Entre Rios",FM Brisas Santa Elena Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://server7.hostradios.com/8072/stream
+
+#EXTINF:31,group-title="Entre Rios",FM Sol Santa Elena Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://ssl.xcast.com.br:7480/;
+
+#EXTINF:31,group-title="Entre Rios",FM Siglo 21 Hasenkamp Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://proxy01.servidorenlinea.net/streaming1/8070/;
+
+#EXTINF:31,group-title="Entre Rios",FM Municipal Hasenkamp Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w642270655.m3u8
+
+#EXTINF:31,group-title="Entre Rios",FM Nuevo Sol Hernandarias Entre Rios
+#EXTVLCOPT:network-caching=10000
+http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
+
+#EXTINF:31,group-title="Entre Rios",FM 92.1 Radio Municipal Piedras Blancas
+#EXTVLCOPT:network-caching=10000
+https://sonic.dattalive.com/8072/stream
+
+
+
+
+#EXTINF:29,group-title="Buenos Aires",On Radio Quilmes GB Gran Bs As
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+
+#EXTINF:29,group-title="Buenos Aires",Canal 5 de Lanus
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
+
+#EXTINF:660,group-title="Buenos Aires",IP TV
+#EXTVLCOPT:network-caching=10000
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+#EXTINF:660,group-title="Buenos Aires",Gen TV
+#EXTVLCOPT:network-caching=10000
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:660,group-title="Buenos Aires",Canal de la Ciudad CABA
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=DZhzVHsXqbo&ab_channel=CanaldelaCiudad
+
+#EXTINF:660,group-title="Buenos Aires",Ciudad Magazine CABA
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10000-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:660,group-title="SD",Ciudad Magazine CABA SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10001-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:660,group-title="Buenos Aires",NET TV
+#EXTVLCOPT:network-caching=10000
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:660,group-title="SD",NET TV SD
+#EXTVLCOPT:network-caching=10000
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:30,group-title="Buenos Aires",UAI Conexion Abierta
+#EXTVLCOPT:network-caching=10000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8?p=79&s=1647178250&e=1647178370&h=818dba680dfa32d875d8cea48e9ae710
+
+#EXTINF:660,group-title="Buenos Aires",Canal 4 Teleaire San Martin
+#EXTVLCOPT:network-caching=10000
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:30,group-title="Buenos Aires",NEO TV Tristan Suarez GB Gran Bs As
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+
+
+
+
+
+
+
+
+#EXTINF:30,group-title="Interior",TV 2 Salta
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 4 Bahia Blanca
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 5 Santa Fe
+#EXTVLCOPT:network-caching=10000
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/chunklist_w326914665.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 5 Telesol San Juan
+#EXTVLCOPT:network-caching=10000
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 9 Televida Mendoza
+#EXTVLCOPT:network-caching=10000
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1903708090.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 Mar del Plata
+#EXTVLCOPT:network-caching=10000
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 Rio Negro
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/8204/8204/chunklist_w980908067.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 Cordoba
+#EXTVLCOPT:network-caching=10000
+https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1464054021_b578000.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 Max Corrientes
+#EXTVLCOPT:network-caching=10000
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 La Rioja
+#EXTVLCOPT:network-caching=10000
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w747836314.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 San Luis
+#EXTVLCOPT:network-caching=10000
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w217714266_b799152.m3u8
+
+#EXTINF:30,group-title="Interior",24/7 CN Neuquen
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/6605140/6605140/chunklist_w1726883584.m3u8
+
+#EXTINF:30,group-title="Interior",TV Publica Fueguina Tierra del Fuego
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+
+#EXTINF:30,group-title="Interior",Chaco TV Resistencia
+#EXTVLCOPT:network-caching=10000
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w320343694.m3u8
+
+#EXTINF:31,group-title="Interior",XFN Television Gral Pueyrredon
+#EXTVLCOPT:network-caching=10000
+https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2129852156.m3u8
+
+
+
+
+
+#EXTINF:30,group-title="Nacionales",America
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV-avc1_2499968=10001-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:30,group-title="SD",America SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV-avc1_2499968=10002-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:30,group-title="Nacionales",Tv Publica Argentina
+#EXTVLCOPT:network-caching=10000
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7-avc1_2499968=10007-mp4a_145200_eng=20004.m3u8
+
+#EXTINF:30,group-title="SD",Tv Publica Argentina SD
+#EXTVLCOPT:network-caching=10000
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7-avc1_2499968=10009-mp4a_145200_eng=20004.m3u8
+
+#EXTINF:30,group-title="Nacionales",Canal 9
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-avc1_2499968=10007-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:30,group-title="SD",Canal 9 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-avc1_2499968=10009-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:30,group-title="Nacionales",Telefe
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_2499968=10000-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:30,group-title="SD",Telefe SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_2499968=10002-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:30,group-title="Nacionales",Canal 13
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_2499968=10007-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:30,group-title="SD",Canal 13 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_2499968=10014-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:27,group-title="Nacionales",CineAr
+#EXTVLCOPT:network-caching=10
+https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="SD",CineAr SD
+#EXTVLCOPT:network-caching=10
+https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="Nacionales",Encuentro
+#EXTVLCOPT:network-caching=10
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="SD",Encuentro SD
+#EXTVLCOPT:network-caching=10
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:30,group-title="Nacionales",Argentinísima Satelital
+#EXTVLCOPT:network-caching=10000
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:29,group-title="Nacionales",Telemax Argentina
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:27,group-title="Nacionales",Music Top
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:120,group-title="Deportes",TyC Sports
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-avc1_2499968=10000-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="SD",TyC Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-avc1_2499968=10004-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",TNT Sports
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="SD",TNT Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-avc1_2499968=10009-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN Premium
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2999968=10007-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="SD",ESPN Premium SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2999968=10001-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",Fox Sports
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_1499968=10001-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="SD",Fox Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_1499968=10004-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",Fox Sports 2
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",Fox Sports 2 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",Fox Sports 3
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",Fox Sports 3 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10007-mp4a_145200_eng=20002.m3u8
+
+#EXTINF:120,group-title="SD",ESPN SD
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10009-mp4a_145200_eng=20002.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN 2
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",ESPN 2 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN 3
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",ESPN 3 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN 4
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10009-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",ESPN 4 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10006-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN Extra
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,group-title="SD",ESPN Extra SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Deportes",DeporTV
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",DeporTV SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Deportes",America Sports
+#EXTVLCOPT:network-caching=10000
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10007-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",America Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10010-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:29,group-title="Deportes",PX Sports
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",PX Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+
+
+
+
+
+#EXTINF:31,group-title="Noticias",Cronica TV
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_899968=10001-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="SD",Cronica TV SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",Canal 26
+#EXTVLCOPT:network-caching=10000
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",Canal 26 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",TN
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10001-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:31,group-title="SD",TN SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10000-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:31,group-title="Noticias",A24
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10001-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="SD",A24 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",C5N
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N-avc1_899968=10001-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="SD",C5N SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:29,group-title="Noticias",RT Russian Today Rusia en Español
+#EXTVLCOPT:network-caching=10000
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:29,group-title="Noticias",DW Alemania en Español
+#EXTVLCOPT:network-caching=10000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
+#EXTINF:29,group-title="Noticias",CGTN China en Español
+#EXTVLCOPT:network-caching=10000
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:29,group-title="Noticias",CNN en Español
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",CNN en Español SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:29,group-title="Cable",Cartoonito
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Cartoonito SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Tooncast
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Tooncast SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Cable",Disney Channel
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_1532000=10010-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Disney Channel SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_1532000=10008-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:60,group-title="Cable",Canal (á)
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",Canal (á) SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Film & Arts
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",Film & Arts SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Gourmet
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",Gourmet SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Food Network
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",Food Network SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",True TV
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",True TV SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",E!
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",E! SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Home and Garden
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10002-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:60,group-title="SD",Home and Garden SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10003-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:60,group-title="Cable",A&E
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",A&E SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Telemundo
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable SD",Telemundo SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Animal Planet
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Animal Planet SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",NatGeo
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",NatGeo SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",NatGeo Wild
+#EXTVLCOPT:network-caching=10000
+https://edge2-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",NatGeo Wild SD
+#EXTVLCOPT:network-caching=10000
+https://edge2-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",History
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",History SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Cable",History 2
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",History 2 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Discovery Channel
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Discovery Channel SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Cable",Discovery Turbo
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10011-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Discovery Turbo SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10008-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Discovery World
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Discovery World SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Discovery Theater
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Discovery Theater SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",TLC Discovery
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",TLC Discovery SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Discovery Home and Health
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_2499968=10007-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:29,group-title="SD",Discovery Home and Health SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_2499968=10000-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:29,group-title="Cable",Life Time
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-avc1_2499968=10006-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:29,group-title="SD",Life Time SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-avc1_2499968=10008-mp4a_145200_spa=20003.m3u8
+
+
+
+
+#EXTINF:29,group-title="Peliculas y Series",Volver
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",TCM
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",I-sat
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Comedy Central
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10004-mp4a_144800_esp=20003.m3u8
+
+#EXTINF:29,group-title="SD",Comedy Central SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_esp=20003.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Studio Universal
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Studio Universal SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",TNT Series
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries-avc1_1532000=10002-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="SD",TNT Series SD
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries-avc1_1532000=10004-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Warner
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Warner SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",AXN
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",AXN SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",TBS
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",TBS SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Star Channel
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_2499968=10007-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:29,group-title="SD",Star Channel SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_2499968=10009-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",SyFy
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy-avc1_1532000=10000-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="SD",SyFy SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy-avc1_1532000=10001-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Sony SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony Comedia
+#EXTVLCOPT:network-caching=10000
+https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:29,group-title="SD",Sony Comedia SD
+#EXTVLCOPT:network-caching=10000
+https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony Novelas
+#EXTVLCOPT:network-caching=10000
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:29,group-title="SD",Sony Novelas SD
+#EXTVLCOPT:network-caching=10000
+https://spt-novelas-1-us.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",AMC
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC-avc1_3900000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",AMC SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC-avc1_3900000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",FX
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD-avc1_3900000=10009-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",FX SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD-avc1_3900000=10006-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Space
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Space SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Cinecanal
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_1972000=10004-mp4a_144800_esp=20000.m3u8
+
+#EXTINF:29,group-title="SD",Cinecanal SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",TNT
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10010-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",TNT SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10008-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Universal
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Universal SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Paramount Network
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_530000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Paramount Network SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_530000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Cinemax
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10001-mp4a_145200_eng=20000.m3u8
+
+#EXTINF:29,group-title="SD",Cinemax SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10003-mp4a_145200_eng=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10004-mp4a_144800_esp=20000.m3u8
+
+#EXTINF:29,group-title="SD",HBO SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO 2
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_1480000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",HBO 2 SD
+#EXTVLCOPT:network-caching=10000
+https://edge6-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO Plus
+#EXTVLCOPT:network-caching=10000
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10007-mp4a_145200_eng=20001.m3u8
+
+#EXTINF:29,group-title="SD",HBO Plus SD
+#EXTVLCOPT:network-caching=10000
+https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10010-mp4a_145200_eng=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO Family
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_3000000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",HBO Family SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_3000000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO Signature
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10010-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",HBO Signature SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO Extreme
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_3450000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",HBO Extreme SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_3450000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO Mundi
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_3450000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",HBO Mundi SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_3450000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",HBO POP
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",HBO POP SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+
+
+
+
+
+#EXTINF:29,group-title="Otros",Telefuturo Paraguay
+#EXTVLCOPT:network-caching=10000
+http://edge2-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Telefuturo Paraguay SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",La Tele Paraguay
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10005-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",La Tele Paraguay SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10005-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Canal 4 Uruguay
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Canal 4 Uruguay SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Otros",Canal 10 Uruguay
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10010-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Canal 10 Uruguay SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10008-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",El canal de las estrellas Mexico
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",El canal de las estrellas Mexico SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Wobi Colombia
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Wobi Colombia SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",A3Cine Latinoamerica España
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine-avc1_1532000=10001-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",A3Cine Latinoamerica España SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine-avc1_1532000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",A3Series Latinoamerica España
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",A3Series Latinoamerica España SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Teledoce Uruguay
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-avc1_1532000=10006-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Teledoce Uruguay SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Pasiones EEUU
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Pasiones EEUU SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Canal 13 Paraguay
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Canal 13 Paraguay SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",SNT Paraguay
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",SNT Paraguay SD
+#EXTVLCOPT:network-caching=10000
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10009-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Otros",Caracol TV Colombia
+#EXTVLCOPT:network-caching=10000
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:29,group-title="Otros",PRUEBA
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
