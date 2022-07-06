@@ -1,4 +1,21 @@
 #EXTM3U
+
+#EXTINF:29,group-title="Otros",Canal 4 Uruguay
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Canal 4 Uruguay SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10002-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Otros",Canal 10 Uruguay
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10010-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Canal 10 Uruguay SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10008-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
 https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
 
