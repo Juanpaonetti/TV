@@ -1,26 +1,25 @@
 #EXTM3U
-
-#EXTINF:29,group-title="Otros",Canal 4 Uruguay
-#EXTVLCOPT:network-caching=10000
-https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
-
-#EXTINF:29,group-title="SD",Canal 4 Uruguay SD
-#EXTVLCOPT:network-caching=10000
-https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU-avc1_1532000=10002-mp4a_144800_spa=20001.m3u8
-
-#EXTINF:29,group-title="Otros",Canal 10 Uruguay
-#EXTVLCOPT:network-caching=10000
-https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10010-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:29,group-title="SD",Canal 10 Uruguay SD
-#EXTVLCOPT:network-caching=10000
-https://edge-live16-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-avc1_1532000=10008-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:-1 tvg-logo"https://flyclipart.com/thumbs/logo-canal-4-uruguay-1281438.png" group-title-"uruguay",canal 4
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png"group-title="URUGUAY",Canal 4 URUGUAY
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="URUGUAY",Canal 10 URUGUAY
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2022/05/logo_tele60.png" group-title="URUGUAY",TELEDOCE URUGUAY
+https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TVURUGUAY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1041_La_Red.png" group-title="URUGUAY",La Red URUGUAY
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1040_Canal_9_Telerocha.png"group-title="URUGUAY",Canal 9 Telerocha URUGUAY
+https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png"group-title="URUGUAY",CANAL 77 URUGUAY
+https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178750142335393800/ZRG8-qD8_400x400.jpg" group-title="URUGUAY", TV CHARRUA
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"group-title="URUGUAY",TVCiudad URUGUAY
+https://edge5-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 10
-http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw4.zetatv.com.uy/live_edge/_definst_/amlst:9/chunklist_w2130409702_b1800000.m3u8?token=09cb3480-2ccd-4b6f-baf2-4e40dd546523
+
 #EXTINF:-1 tvg-logo"https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title-"uruguay",canal 11
 http://s846397078.mialojamiento.es/w3jy/mp.php/https://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:9/playlist.m3u8?token=ed16f818-382d-42a7-bfdd-6515590ef918
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title-"uruguay",canal 13
