@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png"group-title="URUGUAY",Canal 4 URUGUAY
 https://6353228574769.logi1laut4r0.solutions/mpd.html?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jNGVkcy9DYW5hbDRfVVJVL1NBX0xpdmVfZGFzaF9lbmMvQ2FuYWw0X1VSVS5tcGQ=&key=ZGFiZWZhYWM4OTc0MjU4OTc3OGZjZmFiNzhmMDgzNTQ=&key2=ODk2ZGQ5MTQ2ODNiMDFjODA0NGZmZDM0ZDdiNjQxNmI=
-=#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="URUGUAY",Canal 10 URUGUAY
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="URUGUAY",Canal 10 URUGUAY
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2022/05/logo_tele60.png" group-title="URUGUAY",TELEDOCE URUGUAY
 https://edge5-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
